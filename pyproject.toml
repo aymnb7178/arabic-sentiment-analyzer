@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arabic-sentiment-analyzer"
+version = "0.1.0"
+description = "Arabic (MSA + Gulf) sentiment analysis with classical ML on a synthetic corpus: TF-IDF, linear models, lexicon baseline, aspect extraction, HTML dashboard"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Aymen Al Erwi" }]
+dependencies = ["numpy>=1.26", "pandas>=2.0", "scikit-learn>=1.4", "matplotlib>=3.8", "joblib>=1.3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+arabic-sentiment = "arabic_sentiment.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["arabic_sentiment*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

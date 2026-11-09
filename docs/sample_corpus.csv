@@ -1,0 +1,1801 @@
+﻿id,text,label,domain,dialect,date
+1,الطعام مو تمام والطعم تعبان كثير,negative,restaurant,gulf,2025-01-01
+2,الباقة حلوة حيل، بس سرعة الانترنت ما هو لذيذة,negative,telecom,gulf,2025-01-01
+3,بصراحة الباقة ما هو مرتفعة، سأكرر التجربة,positive,telecom,gulf,2025-01-01
+4,سعر المنتج ممتاز جدا للغاية، لكن الموقع سيء,negative,ecommerce,msa,2025-01-01
+5,بصراحة رسوم التوصيل غالية وايد، ضيعت فلوسي,negative,delivery,gulf,2025-01-01
+6,الصدق تغليف الطلب بايخ والتطبيق بارد,negative,delivery,gulf,2025-01-01
+7,بصراحة ما في اي مشكلة في التوصيل,positive,delivery,gulf,2025-01-02
+8,في الحقيقة التطبيق لذيذ,positive,delivery,msa,2025-01-02
+9,والله الجلسة باردة، بس تعامل الموظفين متعاون مرة 😍,positive,restaurant,gulf,2025-01-02
+10,بشكل عام استمتعت بالاسترجاع، شكرا لكم,positive,ecommerce,msa,2025-01-02
+11,بصراحة الطعام كارثة حـيل 😒,negative,restaurant,gulf,2025-01-02
+12,فتحت حساب جديد في التطبيق يوم الأربعاء,neutral,restaurant,gulf,2025-01-02
+13,بشكل عام الطعم ممتاز، ولكن الطعام متسخ,negative,restaurant,msa,2025-01-02
+14,صراحة سرعة الانترنت قديمة والباقة مبالغ فيها,negative,telecom,gulf,2025-01-02
+15,رسوم التوصيل جيدة جدا، بس ما عجبني التوصيل https://example.com/x,negative,delivery,msa,2025-01-03
+16,صراحة تعامل اللللموظفين زبالة,negative,restaurant,gulf,2025-01-03
+17,الصدق استمتعت بالاسترجاع,positive,ecommerce,gulf,2025-01-03
+18,الصدق الموقع مو لذيذ,negative,ecommerce,gulf,2025-01-04
+19,والله الطعام تعبان، ما راح أطلب مرة ثانية,negative,restaurant,gulf,2025-01-04
+20,يا جماعة الطعام زبالة,negative,restaurant,gulf,2025-01-04
+21,سرعة الانترنت قديمة,negative,telecom,msa,2025-01-04
+22,للأمانة التوصيل مميز جدا، لكن تغليف الطلب بارد,negative,delivery,msa,2025-01-04
+23,لا يعتبر سعر المنتج معقول,negative,ecommerce,msa,2025-01-04
+24,الدعم الفني مب كارثة والباقة حلوة,positive,telecom,gulf,2025-01-04
+25,الطعام مب قديم 👏,positive,restaurant,gulf,2025-01-04
+26,الصدق المندوب سريع وايد، ولكن رسوم التوصيل مبالغ فيها حيل 😤,negative,delivery,gulf,2025-01-05
+27,وقت اللللتحضير فوضوي,negative,restaurant,msa,2025-01-05
+28,في الحقيقة الجلسة ممتازة,positive,restaurant,msa,2025-01-05
+29,يا جماعة الأكل قديم كثير,negative,restaurant,gulf,2025-01-05
+30,السائق حلو حيل، وراح أطلب مرة ثانية,positive,delivery,gulf,2025-01-05
+31,لم يكن السائق منظم,negative,delivery,msa,2025-01-05
+32,بصراحة سعر المنتج مو مناسب، لن أكرر التجربة,negative,ecommerce,gulf,2025-01-06
+33,التطبيق مرتب وخدمة التوصيل محترمة حيل,positive,delivery,gulf,2025-01-06
+34,للأمانة تضايقت من الموقع,negative,ecommerce,msa,2025-01-06
+35,تجربتي: وجبة الغداء باردة والأسعار ضعيفة جدا,negative,restaurant,msa,2025-01-06
+36,يا جماعة جودة المنتج مرتبة مرة، سأكرر التجربة,positive,ecommerce,gulf,2025-01-06
+37,والله التوصيل مو طيب,negative,delivery,gulf,2025-01-06
+38,بصراحة لم يعجبني الشحن #تجربتي,negative,ecommerce,gulf,2025-01-07
+39,تعامل موظف الاستقبال بارد للغاية,negative,telecom,msa,2025-01-07
+40,بشكل عام الطعام بارد جدا,negative,restaurant,msa,2025-01-07
+41,الصدق رسوم التوصيل غالية وايد وتغليف الطلب زبالة حيل,negative,delivery,gulf,2025-01-07
+42,في الحقيقة المنتج جيد للغاية، أنصح به بشدة,positive,ecommerce,msa,2025-01-07
+43,للأمانة لا يعتبر الأسعار غير مقبولة 🔥,positive,restaurant,msa,2025-01-07
+44,لم يكن وجبة الغداء غير مقبولة,positive,restaurant,msa,2025-01-07
+45,صراحة السائق بطيء حيل,negative,delivery,gulf,2025-01-07
+46,سعر الوجبة 100 ريال,neutral,ecommerce,gulf,2025-01-07
+47,عجبني المندوب,positive,delivery,gulf,2025-01-08
+48,في الحقيقة الطعم نظيف للغاية، لكن المطعم رديء,negative,restaurant,msa,2025-01-08
+49,للأمانة لم أرتح لالموقع، لكن لم يكن التغليف سيء,positive,ecommerce,msa,2025-01-08
+50,وجبة الغداء ما هو متسخة، بس لم يعجبني الأكل,negative,restaurant,gulf,2025-01-09
+51,أعجبني الاسترجاع جدا، بس سعر المنتج ليس معقول #تجربتي,negative,ecommerce,msa,2025-01-09
+52,الطلب رقم 3716 وصل يوم الأحد,neutral,delivery,gulf,2025-01-09
+53,صراحة الباقة معقولة,positive,telecom,gulf,2025-01-09
+54,للأمانة المنتج مميز جدا وسعر المنتج رخيص للغاية,positive,ecommerce,msa,2025-01-10
+55,بصراحة الدعم الفني بارد,negative,telecom,gulf,2025-01-10
+56,أعجبني الباقة جدا، شككككرا لكم,positive,telecom,msa,2025-01-10
+57,يا جماعة الفاتورة رخيصة، سأكرر التجربة,positive,telecom,gulf,2025-01-10
+58,هل يوجد وقت الوصول في الدمام؟,neutral,delivery,msa,2025-01-11
+59,وقت الوصول بايخ,negative,delivery,gulf,2025-01-11
+60,والله وقت الوصول في الوقت المحدد حيل,positive,delivery,gulf,2025-01-11
+61,هل يوجد الاسترجاع في مكة؟,neutral,ecommerce,msa,2025-01-12
+62,الشحن بطيء جدا، لكن لا يعتبر سعر المنتج ضعيف,positive,ecommerce,msa,2025-01-12
+63,عجبني الشحن، شكرا لكم,positive,ecommerce,gulf,2025-01-12
+64,في الحقيقة الباقة رخيصة جدا,positive,telecom,msa,2025-01-12
+65,وقت اللللتحضير فوضوي 😒,negative,restaurant,msa,2025-01-12
+66,الموقع ما هو لذيذ، لا أنصح به,negative,ecommerce,gulf,2025-01-12
+67,لم يكن التوصيل جيد,negative,delivery,msa,2025-01-12
+68,لم أرتح لالتوصيل,negative,delivery,msa,2025-01-12
+69,تجربتي: لم أرتح لالخدمة 💔,negative,restaurant,msa,2025-01-12
+70,للأمانة رسوم التوصيل رخيصة، لكن لم يكن خدمة التوصيل متعاونة,negative,delivery,msa,2025-01-13
+71,في الحقيقة أعجبني الموقع للغاية,positive,ecommerce,msa,2025-01-13
+72,الصدق خدمة التوصيل غير متعاونة حيل ورسوم التوصيل مبالغ فيها مرة,negative,delivery,gulf,2025-01-13
+73,المطعم زبالة كثير 🤬,negative,restaurant,gulf,2025-01-13
+74,تجربتي: لم يكن الدعم الفني مميز,negative,telecom,msa,2025-01-13
+75,للأمانة خدمة التوصيل مخيبة للآمال,negative,delivery,msa,2025-01-13
+76,للأمانة الأكل جيد جدا، لكن لا يعتبر وجبة الغداء رائعة,negative,restaurant,msa,2025-01-13
+77,الصدق الشبكة ثابتة، لكن خدمة العملاء متجاهلة,negative,telecom,gulf,2025-01-14
+78,السائق زي غيره لا اكثر ولا اقل,neutral,delivery,msa,2025-01-14
+79,والله الدعم الفني محترم,positive,telecom,gulf,2025-01-14
+80,في الحقيقة وقت الوصول متأخر لـلغاية,negative,delivery,msa,2025-01-14
+81,هل يوجد خدمة العملاء في الدمام؟,neutral,telecom,gulf,2025-01-14
+82,اللللموقع قديم,negative,ecommerce,gulf,2025-01-14
+83,للأمانة تغليف الطلب بارد ولم يعجبني رسوم التوصيل,negative,delivery,msa,2025-01-14
+84,التغليف زي غيره لا اكثر ولا اقل,neutral,ecommerce,msa,2025-01-14
+85,تغليف الطلب بارد,negative,delivery,msa,2025-01-14
+86,الجلسة مب فخمة، ولكن أعجبني وقت التحضير كثير,positive,restaurant,gulf,2025-01-15
+87,الصدق وقت الوصول مننننظم، وراح أطلب مرة ثانية,positive,delivery,gulf,2025-01-15
+88,التغطية ما هو ثابتة,negative,telecom,gulf,2025-01-15
+89,الفاتورة مرتفعة,negative,telecom,msa,2025-01-16
+90,صراحة تعامل الموظفين مب حلو,negative,restaurant,gulf,2025-01-16
+91,ما عجبني الباقة، بس التغطية ما هو مو طبيعية بالسوء,positive,telecom,gulf,2025-01-16
+92,للأمانة الأكل مميز جدا، وراح أطلب مرة ثانية,positive,restaurant,msa,2025-01-16
+93,والله التطبيق قديم مرة، ضيعت فلوسي,negative,delivery,gulf,2025-01-16
+94,والله تغليف الطلب مب فخم 😒,negative,delivery,gulf,2025-01-17
+95,المندوب بطيء وايد والسائق وحش كثير,negative,delivery,gulf,2025-01-17
+96,وقت الوصول سريع جدا,positive,delivery,msa,2025-01-17
+97,سعر الطلب 190 ريال,neutral,ecommerce,gulf,2025-01-17
+98,بصراحة استمتعت بالشبكة، الله يعطيكم العافية,positive,telecom,gulf,2025-01-17
+99,تجربتي: الأكل مخيب للآمال,negative,restaurant,msa,2025-01-17
+100,أععععجبني الاسترجاع كثير,positive,ecommerce,gulf,2025-01-18
+101,الشحن متوسط,neutral,ecommerce,gulf,2025-01-18
+102,يا جماعة خدمة التوصيل طيبة وايد، بس التوصيل متأخر,negative,delivery,gulf,2025-01-18
+103,بصراحة تعامل الموظفين بارد,negative,restaurant,gulf,2025-01-18
+104,للأمانة لا يعتبر الشبكة قديمة 😊,positive,telecom,msa,2025-01-18
+105,تعامل الموظفين ما هو سريع، بس الخدمة خرافية حيل,positive,restaurant,gulf,2025-01-18
+106,رسوم التوصيل كشخة مرة، لكن وقت الوصول ما هو كشخة,negative,delivery,gulf,2025-01-19
+107,الصدق سعر المنتج كارثة مرة 😤,negative,ecommerce,gulf,2025-01-19
+108,الطلب رقم 1440 وصل يوم الأربعاء,neutral,telecom,gulf,2025-01-19
+109,للأمانة رسوم التوصيل مببببالغ فيها,negative,delivery,msa,2025-01-20
+110,تجربتي: لم يكن السائق راقي، ندمت 🤬,negative,delivery,msa,2025-01-20
+111,خدمة التوصيل متجاهلة جدا,negative,delivery,msa,2025-01-20
+112,والله خدمة التوصيل حلوة حيل، ولكن رسوم التوصيل خايسة وايد,negative,delivery,gulf,2025-01-21
+113,بشكل عام الشبكة ليس محترفة,negative,telecom,msa,2025-01-21
+114,في الحقيقة الشحن مزعج جدا، لن أكرر التجربة,negative,ecommerce,msa,2025-01-21
+115,تجربتي: وقت الوصول مميز,positive,delivery,msa,2025-01-22
+116,الفاتورة غالية,negative,telecom,msa,2025-01-22
+117,بصراحة جودة المنتج مب خايسة,positive,ecommerce,gulf,2025-01-23
+118,يا جماعة التغطية مب متسخة، لكن تعامل موظف الاستقبال كارثة,negative,telecom,gulf,2025-01-23
+119,تجربتي: المنتج مزعج جدا,negative,ecommerce,msa,2025-01-23
+120,الشبكة زبالة مرة,negative,telecom,gulf,2025-01-23
+121,تجربتي: الباقة رخيصة، ولكن لا يعتبر الدعم الفني سريع,negative,telecom,msa,2025-01-23
+122,بصراحة الخدمة متعاونة كثير,positive,restaurant,gulf,2025-01-24
+123,استلمت الوجبة الساعة 6,neutral,delivery,msa,2025-01-24
+124,الطلب رقم 3853 وصل يوم الاثنين,neutral,telecom,msa,2025-01-24
+125,اريد معرفة التغطية قبل الاشتراك,neutral,telecom,gulf,2025-01-24
+126,الطلب رقم 8264 وصل يوم الاثنين,neutral,telecom,gulf,2025-01-25
+127,للأمانة الاسترجاع بارد,negative,ecommerce,msa,2025-01-25
+128,للأمانة سرعة الانترنت ليس غير مقبولة، بس الدعم الفني رديء,negative,telecom,msa,2025-01-25
+129,لم يعجبني سرعة الانترنت,negative,telecom,msa,2025-01-26
+130,تجربتي: لم يكن تعامل موظف الاستقبال متجاهل، بس لم يكن خدمة العملاء محترفة,negative,telecom,msa,2025-01-26
+131,بشكل عام وجبة الغداء تعبانة، ولكن لا يعتبر الخدمة متجاهلة,positive,restaurant,msa,2025-01-26
+132,بـشكل عام تغليف الطلب راقي، لكن التطبيق بارد للغاية,negative,delivery,msa,2025-01-27
+133,في الحقيقة الشحن ضعيف، ولكن الموقع مميز @support,positive,ecommerce,msa,2025-01-27
+134,والله التغليف ولا غلطة حيل، بس سعر المنتج مب يجنن,negative,ecommerce,gulf,2025-01-27
+135,تجربتي: وقت الوصول متأخر جدا,negative,delivery,msa,2025-01-27
+136,التغطية مب مرتبة @support,negative,telecom,gulf,2025-01-28
+137,تجربتي: خدمة ما بعد البيع غير مقبولة جدا,negative,ecommerce,msa,2025-01-28
+138,يا جماعة الاسترجاع ما هو حلو وسعر المنتج ما هو خرافي,negative,ecommerce,gulf,2025-01-31
+139,لم أرتح لخدمة التوصيل,negative,delivery,msa,2025-01-31
+140,في الحقيقة تغليف الطلب ثابتة، شكرا لكم,positive,delivery,msa,2025-01-31
+141,الباقة مزعجة 😡 @support,negative,telecom,msa,2025-01-31
+142,السائق مب في الوقت المحدد ووقت الوصول بايخ مرة,negative,delivery,gulf,2025-01-31
+143,خدمة التوصيل غير متعاونة، لكن التطبيق نظيف للغاية #تجربتي,positive,delivery,msa,2025-01-31
+144,وقت الوصول كارثة,negative,delivery,gulf,2025-01-31
+145,خدمة ما بعد البيع ضعيفة والشحن مزعج جدا,negative,ecommerce,msa,2025-01-31
+146,بصراحة خدمة التوصيل سريعة الرد,positive,delivery,gulf,2025-02-01
+147,تجربتي: لم يكن خدمة التوصيل محترمة,negative,delivery,msa,2025-02-01
+148,وقت الوصول تمام، بس التوصيل فوضوي مرة 💔,negative,delivery,gulf,2025-02-01
+149,للأمانة الخدمة متجاهلة جدا 😡,negative,restaurant,msa,2025-02-01
+150,بصراحة ما عجبني تعامل موظف الاستقبال,negative,telecom,gulf,2025-02-01
+151,التوصيل ليس سيئا وليس ممتازا,neutral,delivery,msa,2025-02-01
+152,صراحة تغليف الطلب زبالة,negative,delivery,gulf,2025-02-01
+153,السائق مب بايخ @support,positive,delivery,gulf,2025-02-01
+154,يا جماعة خدمة التوصيل باردة وايد والمندوب متأخر وايد,negative,delivery,gulf,2025-02-01
+155,هل يوجد سعر المنتج في جدة؟,neutral,ecommerce,gulf,2025-02-02
+156,والله التوصيل بطيء,negative,delivery,gulf,2025-02-02
+157,هل يوجد خدمة ما بعد البيع في المدينة؟,neutral,ecommerce,msa,2025-02-02
+158,طلبت من متجر النخيل يوم الثلاثاء,neutral,telecom,gulf,2025-02-02
+159,بشكل عام تعامل موظف الاستقبال راقي,positive,telecom,msa,2025-02-02
+160,الدعم الفني محترم للغاية، وراح أطلب مرة ثانية,positive,telecom,msa,2025-02-02
+161,طلبت مرتين هذا الاسبوع من سوبرماركت الحي,neutral,ecommerce,msa,2025-02-02
+162,للأمانة لا يعتبر الأكل ممتاز والجلسة ضعيفة,negative,restaurant,msa,2025-02-02
+163,سعر القسيمة 130 ريال,neutral,ecommerce,msa,2025-02-03
+164,بصراحة ما ارتحت لالخدمة، تجربة مخيبة,negative,restaurant,gulf,2025-02-03
+165,صـراحة الأسعار بايخة وايد، ندمت,negative,restaurant,gulf,2025-02-03
+166,المنتج ليس رائع,negative,ecommerce,msa,2025-02-03
+167,يا جماعة جودة المنتج خايسة كثير,negative,ecommerce,gulf,2025-02-03
+168,تعامل موظف الاستقبال غير متعاون,negative,telecom,msa,2025-02-03
+169,بشكل عام رسوم التوصيل رائعة,positive,delivery,msa,2025-02-04
+170,بششششكل عام تغليف الطلب رديء,negative,delivery,msa,2025-02-04
+171,الصدق ما ارتحت لرسوم التوصيل، ما انصح فيه,negative,delivery,gulf,2025-02-04
+172,المندوب متوسط,neutral,delivery,gulf,2025-02-04
+173,سرعة الانترنت رااااقية للغاية,positive,telecom,msa,2025-02-04
+174,تجربتي: خدمة العملاء باردة جدا,negative,telecom,msa,2025-02-04
+175,تجربتي: استمتعت بالتوصيل وخدمة التوصيل متعاونة جدا,positive,delivery,msa,2025-02-04
+176,تجربتي: لا يعتبر خدمة التوصيل سريعة,negative,delivery,msa,2025-02-04
+177,والله خدمة التوصيل ولا غلطة كثير، لكن رسوم التوصيل مرتفعة مرة #تجربتي,negative,delivery,gulf,2025-02-04
+178,للأمانة لا يعتبر خدمة العملاء مخيبة,positive,telecom,msa,2025-02-05
+179,تضايقت من خدمة ما بعد البيع #تجربتي,negative,ecommerce,gulf,2025-02-05
+180,خـدمة التوصيل مزعجة,negative,delivery,msa,2025-02-05
+181,بصراحة التغطية بايخة,negative,telecom,gulf,2025-02-05
+182,بصراحة الفاتورة غالية,negative,telecom,gulf,2025-02-05
+183,صراحة الشبكة تعبانة,negative,telecom,gulf,2025-02-06
+184,بصراحة الطعم متسخ، بس وجبة الغداء ثابتة حيل,positive,restaurant,gulf,2025-02-06
+185,استلمت الطلب الساعة 5,neutral,telecom,msa,2025-02-06
+186,الصدق التطبيق مو قديم,positive,delivery,gulf,2025-02-06
+187,في الحقيقة الخدمة مزعجة للغاية، لكن عجبني الجلسة,positive,restaurant,msa,2025-02-06
+188,صراحة وقت التحضير وحش وايد 💔,negative,restaurant,gulf,2025-02-06
+189,الصدق المندوب زبالة حيل، لكن التوصيل فخم,positive,delivery,gulf,2025-02-07
+190,اريد معرفة التطبيق قبل الاشتراك,neutral,delivery,gulf,2025-02-07
+191,بصصصصراحة الشحن فوضوي مرة,negative,ecommerce,gulf,2025-02-07
+192,في الحقيقة الشحن سيء جدا، بس الموقع ليس تعبان,positive,ecommerce,msa,2025-02-07
+193,المطعم قديم وتعامل الموظفين زبالة,negative,restaurant,gulf,2025-02-07
+194,الجلسة طيبة,positive,restaurant,gulf,2025-02-07
+195,اريد معرفة تعامل موظف الاستقبال قبل الاشتراك,neutral,telecom,msa,2025-02-07
+196,الطعم مرتب، وراح أطلب مرة ثانية,positive,restaurant,gulf,2025-02-08
+197,تجربتي: المندوب منظم، وراح أطلب مرة ثانية ❤,positive,delivery,msa,2025-02-08
+198,المنتج ليس غير مقبول وخدمة ما بعد البيع سريعة الرد,positive,ecommerce,msa,2025-02-08
+199,تجربتي: السائق مزعج للغاية والتطبيق مخيب للآمال للغاية,negative,delivery,msa,2025-02-08
+200,طلبت مرتين هذا الاسبوع من مطعم الواحة,neutral,telecom,msa,2025-02-08
+201,صراحة سرعة الانترنت ما هو فخمة، لا أنصح به,negative,telecom,gulf,2025-02-09
+202,التوصيل ممتاز جدا جدا، شكرا لكم https://example.com/x,positive,delivery,msa,2025-02-09
+203,بصراحة وقت التحضير كشخة وايد والأسعار فخمة وايد,positive,restaurant,gulf,2025-02-09
+204,عجبني المندوب والتوصيل خررررافي مرة,positive,delivery,gulf,2025-02-09
+205,يا جماعة الطعام قديم,negative,restaurant,gulf,2025-02-09
+206,بشكل عام سرعة الانترنت غير مقبولة,negative,telecom,msa,2025-02-09
+207,تضايقت من تعامل الموظفين,negative,restaurant,msa,2025-02-09
+208,الصدق لم يعجبني التوصيل، تجربة مخيبة,negative,delivery,gulf,2025-02-09
+209,الصدق الأكل قديم,negative,restaurant,gulf,2025-02-09
+210,خدمة ما بعد البيع زي غيرها لا اكثر ولا اقل,neutral,ecommerce,gulf,2025-02-10
+211,في الحقيقة التطبيق محترف للغاية,positive,delivery,msa,2025-02-10
+212,لم يكن سعر المنتج مناسب، تجربة مخيبة,negative,ecommerce,msa,2025-02-10
+213,بصراحة الباقة ما هو مبالغ، ولكن الشبكة ما هو نظيفة,negative,telecom,gulf,2025-02-10
+214,وجبة الغداء تعبانة,negative,restaurant,msa,2025-02-10
+215,الصدق عجبني سعر المنتج، لكن جودة المنتج باردة كثير,negative,ecommerce,gulf,2025-02-10
+216,الخدمة ممتازة للغاية,positive,restaurant,msa,2025-02-10
+217,صراحة الباقة نار كثير، لكن أعجبني تعامل موظف الاستقبال,positive,telecom,gulf,2025-02-10
+218,سرعة الانترنت ضعيفة للغاية,negative,telecom,msa,2025-02-11
+219,وقت التحضير خايس مرة,negative,restaurant,gulf,2025-02-11
+220,تجربتي: لا يوجد اي مشكلة في تعامل الموظفين @support,positive,restaurant,msa,2025-02-11
+221,ما عجبني الباقة، ضيعت فلوسي,negative,telecom,msa,2025-02-11
+222,والله الأكل فخم,positive,restaurant,gulf,2025-02-12
+223,للأمانة تعامل الموظفين محترف جدا 👏,positive,restaurant,msa,2025-02-12
+224,الأسعار ممتازة مقابل الجودة، لكن الطعام متسخ للغاية,negative,restaurant,msa,2025-02-12
+225,والله الموقع ممتاز حيل,positive,ecommerce,gulf,2025-02-12
+226,بشكل عام التغطية محترفة جدا,positive,telecom,msa,2025-02-13
+227,والله وجبة الغداء حلوة كثير، بس وقت التحضير زبالة كثير,negative,restaurant,gulf,2025-02-13
+228,وجبة الغداء مرتبة، لكن الجلسة زبالة,negative,restaurant,gulf,2025-02-13
+229,هل يوجد التغليف في الرياض؟,neutral,ecommerce,msa,2025-02-13
+230,الموقع سيء 🤬,negative,ecommerce,msa,2025-02-14
+231,وقت التحضير ليس فوضوي,positive,restaurant,msa,2025-02-14
+232,وجبة الغداء عادية,neutral,restaurant,msa,2025-02-14
+233,المطعم متوسط لا اكثر ولا اقل,neutral,restaurant,gulf,2025-02-14
+234,الطعم لذيذ كثير,positive,restaurant,gulf,2025-02-15
+235,تجربتي: خدمة التوصيل متعاونة للغاية، بس رسوم التوصيل سيئة جدا 😤,negative,delivery,msa,2025-02-15
+236,بشكل عام لا يعتبر الشحن متأخر,positive,ecommerce,msa,2025-02-15
+237,بشكل عام الطعام ليس ثابتة، ندمت 🤬,negative,restaurant,msa,2025-02-15
+238,الصدق الشبكة ممتازة وايد وتعامل موظف الاستقبال يجنن,positive,telecom,gulf,2025-02-15
+239,وش وقت يفتح مطعم السفرة؟,neutral,telecom,gulf,2025-02-15
+240,عجبني تعامل موظف الاستقبال,positive,telecom,gulf,2025-02-16
+241,صراحة سرعة الانترنت مو بايخة، وراح أطلب مرة ثانية https://example.com/x,positive,telecom,gulf,2025-02-16
+242,بشكل عام الطعام ليس مخيب، ولكن تعامل الموظفين ليس رائع,negative,restaurant,msa,2025-02-16
+243,للأمانة المنتج مزعج 👎,negative,ecommerce,msa,2025-02-17
+244,بصراحة خدمة التوصيل ما هو غير متعاونة، لكن ما عجبني التطبيق,negative,delivery,gulf,2025-02-17
+245,والله تضايقت من الموقع,negative,ecommerce,gulf,2025-02-17
+246,للأمانة استمتعت برسوم التوصيل، لكن السائق فوضوي 🤬,negative,delivery,msa,2025-02-17
+247,تغليف الطلب مرتب,positive,delivery,msa,2025-02-17
+248,تجربتي: الشبكة مرتبة للغاية,positive,telecom,msa,2025-02-18
+249,تعامل الموظفين مب وحش، ولكن وجبة الغداء وحشة,negative,restaurant,gulf,2025-02-18
+250,هل يوجد الجلسة في جدة؟,neutral,restaurant,msa,2025-02-18
+251,الطلب رقم 9944 وصل يوم الأحد,neutral,restaurant,gulf,2025-02-18
+252,التطبيق غـير مقبول وما عجبني خدمة التوصيل,negative,delivery,msa,2025-02-18
+253,لم أرتح لالباقة,negative,telecom,msa,2025-02-18
+254,صراحة الشحن مب سريع,negative,ecommerce,gulf,2025-02-19
+255,خدمة ما بعد البيع متعاونة,positive,ecommerce,msa,2025-02-19
+256,التطبيق بايخ، لكن وقت الوصول كشخة حيل,positive,delivery,gulf,2025-02-19
+257,والله التغليف ما هو متسخ,positive,ecommerce,gulf,2025-02-19
+258,في الحقيقة خدمة العملاء ليس متجاهلة، أنصح به بشدة #تجربتي,positive,telecom,msa,2025-02-19
+259,سعر الباقة الشهرية 120 ريال,neutral,telecom,msa,2025-02-19
+260,صراحة السائق ما هو منظم,negative,delivery,gulf,2025-02-19
+261,بصراحة الطعم وحش كثير، لن أكرر التجربة,negative,restaurant,gulf,2025-02-19
+262,يا جماعة جودة المنتج متسخة حيل، لا أنصح به,negative,ecommerce,gulf,2025-02-20
+263,صراحة الأسعار حلوة، لكن المطعم ما هو حلو,negative,restaurant,gulf,2025-02-20
+264,واااالله الاسترجاع بايخ,negative,ecommerce,gulf,2025-02-21
+265,المنتج ليس لذيذ 💔,negative,ecommerce,msa,2025-02-21
+266,وجبة الغداء باردة,negative,restaurant,msa,2025-02-21
+267,صراحة الشحن مب ولا غلطة والموقع مب ممتاز,negative,ecommerce,gulf,2025-02-21
+268,صراحة الأكل زبالة,negative,restaurant,gulf,2025-02-21
+269,تجربتي: الباقة ليس ضعيفة وخدمة العملاء محترفة للغاية,positive,telecom,msa,2025-02-22
+270,للأمانة أعجبني الشبكة جدا,positive,telecom,msa,2025-02-22
+271,في الحقيقة لم أرتح لوقت الوصول والتوصيل متأخر للغاية 🤬,negative,delivery,msa,2025-02-22
+272,بصراحة أعجبني المندوب مرة، وراح أطلب مرة ثانية,positive,delivery,gulf,2025-02-22
+273,اريد معرفة الباقة قبل الاشتراك,neutral,telecom,gulf,2025-02-22
+274,تجربتي: لم أرتح لالأسعار,negative,restaurant,msa,2025-02-22
+275,المنتج تعبان حيل,negative,ecommerce,gulf,2025-02-22
+276,للأمانة ما عجبني التغطية، ندمت,negative,telecom,msa,2025-02-22
+277,جودة المنتج ولا غلطة حيل، ولكن سعر المنتج مرتفع مرة,negative,ecommerce,gulf,2025-02-23
+278,الطلب رقم 3346 وصل يوم الخميس,neutral,delivery,msa,2025-02-23
+279,يا جماعة استمتعت بالشبكة,positive,telecom,gulf,2025-02-23
+280,بصراحة المطعم متسخ، لكن ما في اي مشكلة في الخدمة,positive,restaurant,gulf,2025-02-24
+281,تجربتي: المندوب رائع، لكن رسوم التوصيل سيئة,negative,delivery,msa,2025-02-24
+282,تجربتي: السائق راقي جدا، ولكن لا يعتبر المندوب في الوقت المحدد,negative,delivery,msa,2025-02-24
+283,التوصيل ولا غلطة حيل، الله يعطيكم العافية @support,positive,delivery,gulf,2025-02-24
+284,ما ارتحت لـسعر المنتج,negative,ecommerce,gulf,2025-02-24
+285,الشحن ممتاز جدا ولم يكن الموقع غير مقبول 👏,positive,ecommerce,msa,2025-02-25
+286,بصراحة خدمة التوصيل محترمة حيل,positive,delivery,gulf,2025-02-25
+287,بشكل عام لا يعتبر وقت الوصول سريع ولا يعتبر السائق راقي https://example.com/x,negative,delivery,msa,2025-02-26
+288,بشكل عام وقت الوصول منظم للغاية والتوصيل منظم,positive,delivery,msa,2025-02-26
+289,للأمانة الطعم سيء,negative,restaurant,msa,2025-02-26
+290,لا يعتبر رسوم التوصيل نار,positive,delivery,msa,2025-02-26
+291,خدمة العملاء ليس سيئا وليس ممتازا,neutral,telecom,msa,2025-02-26
+292,المنتج مب لذيذ، ما راح أطلب مرة ثانية,negative,ecommerce,gulf,2025-02-26
+293,بصراحة المطعم مو نظيف,negative,restaurant,gulf,2025-02-27
+294,الأكل لذيذ للغاية، بس تعامل الموظفين بارد 😤,negative,restaurant,msa,2025-02-27
+295,صراحة الفاتورة كارثة كثير,negative,telecom,gulf,2025-02-27
+296,استلمت الاشتراك الساعة 1,neutral,telecom,gulf,2025-03-02
+297,بشكل عام سرعة الانترنت رديئة، لن أكرر التجربة,negative,telecom,msa,2025-03-02
+298,بصراحة خدمة ما بعد البيع ما هو بايخة,positive,ecommerce,gulf,2025-03-02
+299,اريد معرفة المندوب قبل الاشتراك,neutral,delivery,msa,2025-03-02
+300,والله استمتعت بالمطعم والطعام مو قديم,positive,restaurant,gulf,2025-03-02
+301,بصراحة الأكل مب كشخة,negative,restaurant,gulf,2025-03-02
+302,الصدق المنتج خايس حيل، ما انصح فيه,negative,ecommerce,gulf,2025-03-02
+303,اريد معرفة الجلسة قبل الاشتراك,neutral,restaurant,msa,2025-03-02
+304,تجربتي: خدمة العملاء غير متعاونة والتغطية غير مقبولة,negative,telecom,msa,2025-03-03
+305,هل يوجد المندوب في مكة؟,neutral,delivery,gulf,2025-03-03
+306,الصدق تضايقت من الفاتورة، ما انصح فيه,negative,telecom,gulf,2025-03-03
+307,الطلب رقم 4698 وصل يوم الأربعاء,neutral,telecom,msa,2025-03-03
+308,بصراحة عجبني الجلسة,positive,restaurant,gulf,2025-03-03
+309,وقت التحضير وحش وايد، ما انصح فيه,negative,restaurant,gulf,2025-03-03
+310,متى يفتح مطعم السفرة؟,neutral,restaurant,msa,2025-03-03
+311,للأمانة سرعة الانترنت مخيبة للآمال للغاية، تجربة مخيبة,negative,telecom,msa,2025-03-04
+312,في الحقيقة التطبيق بارد جدا,negative,delivery,msa,2025-03-04
+313,تم تحويل طلبي الى إدارة الحسابات,neutral,delivery,msa,2025-03-04
+314,والله الخدمة متجاهلة ووقت التحضير بطيء 😤,negative,restaurant,gulf,2025-03-04
+315,الصدق خدمة ما بعد البيع مو متجاهلة,positive,ecommerce,gulf,2025-03-04
+316,هل يوجد تعامل موظف الاستقبال في المدينة؟,neutral,telecom,gulf,2025-03-05
+317,الدعم الفني مو مو طبيعي بالسوء,positive,telecom,gulf,2025-03-05
+318,الصدق تعامل موظف الاستقبال بارد وايد,negative,telecom,gulf,2025-03-05
+319,بشكل عام وجبة الغداء مرتبة جدا,positive,restaurant,msa,2025-03-05
+320,الصدق التغليف كارثة كثير والشحن بايخ كثير 💔,negative,ecommerce,gulf,2025-03-05
+321,الشبكة تعبانة كثير، ولكن الفاتورة مناسبة وايد,positive,telecom,gulf,2025-03-05
+322,تجربتي: تضايقت من الباقة,negative,telecom,msa,2025-03-05
+323,وـالله الدعم الفني زبالة وايد، لكن الباقة مناسبة كثير,positive,telecom,gulf,2025-03-05
+324,بصراحة المطعم مرتب,positive,restaurant,gulf,2025-03-05
+325,ما عجبني الأسعار,negative,restaurant,gulf,2025-03-06
+326,طلبت مرتين هذا الاسبوع من متجر النخيل,neutral,delivery,gulf,2025-03-06
+327,بشكل عام الدعم الفني متجاهل، تجربة مخيبة,negative,telecom,msa,2025-03-06
+328,عجبني الاسترجاع، الله يعطيكم العافية,positive,ecommerce,msa,2025-03-06
+329,تجربتي: ما عجبني وجبة الغداء,negative,restaurant,msa,2025-03-06
+330,جودة المنتج مب طيبة وسعر المنتج نار حيل,negative,ecommerce,gulf,2025-03-06
+331,بصراحة تعامل مـوظف الاستقبال مب بايخ,positive,telecom,gulf,2025-03-06
+332,تجربتي: الدعم الفني ليس مخيب,positive,telecom,msa,2025-03-07
+333,صراحة الخدمة مب خايسة,positive,restaurant,gulf,2025-03-07
+334,للأمانة الفاتورة مزعجة,negative,telecom,msa,2025-03-07
+335,في الحقيقة الدعم الفني متجاهل 😒,negative,telecom,msa,2025-03-07
+336,الاسترجاع سريع الرد، ولكن المنتج قديم حيل,negative,ecommerce,gulf,2025-03-07
+337,الجلسة متوسطة,neutral,restaurant,msa,2025-03-07
+338,في الحقيقة التغطية مخيبة للآمال جدا,negative,telecom,msa,2025-03-07
+339,بشكل عام لا يوجد اي مشكلة في الشبكة,positive,telecom,msa,2025-03-07
+340,وش وقت يفتح متجر النخيل؟,neutral,telecom,gulf,2025-03-08
+341,خدمة التوصيل مقبولة لا اكثر ولا اقل,neutral,delivery,msa,2025-03-08
+342,هل يوجد وقت التحضير في الدمام؟,neutral,restaurant,msa,2025-03-08
+343,تجربتي: الدعم الفني رديء,negative,telecom,msa,2025-03-08
+344,التغليف زبالة,negative,ecommerce,gulf,2025-03-08
+345,تجربتي: خدمة التوصيل غير متعاونة جدا #تجربتي,negative,delivery,msa,2025-03-08
+346,في الحقيقة المنتج ممتاز,positive,ecommerce,msa,2025-03-09
+347,صراحة رسوم التوصيل نار مرة,negative,delivery,gulf,2025-03-09
+348,اريد معرفة جودة المنتج قبل الاشتراك,neutral,ecommerce,msa,2025-03-09
+349,بشكل عام لا يعتبر الأكل مرتب، لن أكرر اـلتجربة,negative,restaurant,msa,2025-03-10
+350,للأمانة لم يكن الاسترجاع رديء,positive,ecommerce,msa,2025-03-10
+351,صراحة خدمة العملاء وـلا غلطة، وفقكم الله,positive,telecom,gulf,2025-03-10
+352,فتحت حساب جديد في التطبيق يوم الخميس,neutral,delivery,gulf,2025-03-10
+353,خدمة ما بعد البيع سيئة,negative,ecommerce,msa,2025-03-11
+354,اريد معرفة التوصيل قبل الاشتراك,neutral,delivery,gulf,2025-03-11
+355,الصدق الفاتورة مو حلوة، ما انصح فيه,negative,telecom,gulf,2025-03-11
+356,للأمانة خدمة العملاء باردة جدا,negative,telecom,msa,2025-03-11
+357,هل يوجد الفاتورة في الدمام؟,neutral,telecom,msa,2025-03-12
+358,التغليف مب تمام,negative,ecommerce,gulf,2025-03-12
+359,الموقع راقي، بس لم أرتح لخدمة ما بعد البيع,negative,ecommerce,msa,2025-03-12
+360,وقت الوصول زبالة حيل,negative,delivery,gulf,2025-03-12
+361,في الحقيقة أعجبني وجبة الغداء للغاية، وراح أطلب مرة ثانية 🔥,positive,restaurant,msa,2025-03-12
+362,الصدق المنتج خرافي والموقع مو بايخ,positive,ecommerce,gulf,2025-03-12
+363,سعر الباقة الشهرية 100 ريال,neutral,ecommerce,msa,2025-03-13
+364,بشكل عام سعر المنتج مرتفع للغاية,negative,ecommerce,msa,2025-03-13
+365,يا جماعة لم يعجبني خدمة العملاء والدعم الفني وحش مرة 👎,negative,telecom,gulf,2025-03-13
+366,الطلب رقم 1850 وصل يوم الجمعة,neutral,ecommerce,msa,2025-03-13
+367,بصراحة لم يعجبني خدمة ما بعد البيع,negative,ecommerce,gulf,2025-03-13
+368,لم يععععجبني الباقة,negative,telecom,gulf,2025-03-13
+369,هل يوجد الدعم الفني في مكة؟,neutral,telecom,msa,2025-03-14
+370,تجربتي: خدمة ما بعد البيع متجاهلة للغاية,negative,ecommerce,msa,2025-03-14
+371,الطلب رقم 8270 وصل يوم الثلاثاء,neutral,ecommerce,gulf,2025-03-14
+372,الأكل مو وحش ولا ممتاز,neutral,restaurant,gulf,2025-03-14
+373,رسوم التوصيل خايسة,negative,delivery,gulf,2025-03-14
+374,سعر المنتج ليس سيئا وليس ممتازا,neutral,ecommerce,msa,2025-03-14
+375,فتحت حساب جديد في التطبيق يوم الثلاثاء,neutral,delivery,gulf,2025-03-14
+376,سعر الباقة الشهرية 220 ريال,neutral,telecom,msa,2025-03-14
+377,أعجبني الشبكة #تجربتي,positive,telecom,msa,2025-03-15
+378,الصدق الشبكة لذيذة، بس سرعة الانترنت مو طبيعية بالسوء وايد,negative,telecom,gulf,2025-03-15
+379,السائق فوضوي,negative,delivery,msa,2025-03-15
+380,يا جماعة التغطية مب مرتبة @support,negative,telecom,gulf,2025-03-15
+381,بشكل عام التغطية نظيفة 👏,positive,telecom,msa,2025-03-15
+382,الخدمة تمام واااايد,positive,restaurant,gulf,2025-03-15
+383,الخدمة غير مقبولة,negative,restaurant,msa,2025-03-16
+384,خدمة التوصيل مب محترمة وتضايقت من السائق,negative,delivery,gulf,2025-03-16
+385,يا جماعة الدعم الفني مو محترم,negative,telecom,gulf,2025-03-16
+386,يا جماعة رسوم التوصيل ولا غلطة,positive,delivery,gulf,2025-03-16
+387,خدمة التوصيل متعاونة جدا، لكن التطبيق تعبان للغاية,negative,delivery,msa,2025-03-16
+388,صراحة لم يعجبني وجبة الغداء,negative,restaurant,gulf,2025-03-16
+389,صراحة رسوم التوصيل معقولة حيل والمندوب سريع وايد,positive,delivery,gulf,2025-03-16
+390,اريد معرفة السائق قبل الاشتراك,neutral,delivery,msa,2025-03-16
+391,للأمانة خدمة ما بعد البيع ليس مميزة,negative,ecommerce,msa,2025-03-16
+392,للأمانة السائق سيء، ندمت 😡,negative,delivery,msa,2025-03-17
+393,بصراحة التوصيل زبالة، لن أكرر التجربة,negative,delivery,gulf,2025-03-17
+394,الأكل مرتب,positive,restaurant,gulf,2025-03-17
+395,تجربتي: عجبني وجبة الغداء، أنصح به بشدة,positive,restaurant,msa,2025-03-17
+396,تعامل الموظفين سيء للغاية,negative,restaurant,msa,2025-03-17
+397,استلمت الباقة الشهرية الساعة 12,neutral,telecom,gulf,2025-03-17
+398,جودة المنتج ممتازة والتغليف نظيف وايد https://example.com/x,positive,ecommerce,gulf,2025-03-17
+399,يا جماعة الباقة مو نار,positive,telecom,gulf,2025-03-17
+400,للأمانة سرعة الانترنت مخيبة للآمال جدا,negative,telecom,msa,2025-03-17
+401,الطلب رقم 1635 وصل يوم الثلاثاء,neutral,ecommerce,msa,2025-03-18
+402,المندوب ما هو خرافي وخدمة التوصيل زبالة وايد,negative,delivery,gulf,2025-03-18
+403,الصدق الطعم بارد مرة والأكل وحش,negative,restaurant,gulf,2025-03-18
+404,بشكل عام ما عجبني وجبة الغداء ولم أرتح لالجلسة,negative,restaurant,msa,2025-03-18
+405,ما في اي مشكلة في الباقة,positive,telecom,gulf,2025-03-18
+406,طلبت من مطعم الواحة يوم الجمعة,neutral,telecom,msa,2025-03-19
+407,يا جماعة وقت التحضير ولا غلطة,positive,restaurant,gulf,2025-03-20
+408,لم يعجبني الأسعار ولم يعجبني الطعم,negative,restaurant,msa,2025-03-20
+409,في الحقيقة استمتعت بالمندوب، بس لم يكن السائق ممتاز 💔,negative,delivery,msa,2025-03-20
+410,السائق رديء للغاية @support,negative,delivery,msa,2025-03-20
+411,بصراحة الجلسة بايخة حيل,negative,restaurant,gulf,2025-03-20
+412,للأمانة سرعة الانترنت باردة للغاية,negative,telecom,msa,2025-03-21
+413,تجربتي: التطبيق جيد للغاية، سأكرر التجربة,positive,delivery,msa,2025-03-21
+414,الطلب رقم 5903 وصل يوم الثلاثاء,neutral,restaurant,msa,2025-03-21
+415,في الحقيقة سعر المنتج معقول ولم يكن الشحن ضعيف,positive,ecommerce,msa,2025-03-22
+416,للأمانة الطعام مرتب، أنصح به بشدة,positive,restaurant,msa,2025-03-22
+417,سرعة الانترنت مخيبة للآمال,negative,telecom,msa,2025-03-22
+418,يا جماعة المندوب تمام حيل,positive,delivery,gulf,2025-03-23
+419,في الحقيقة وقت التحضير منظم جدا، وراح أطلب مرة ثانية,positive,restaurant,msa,2025-03-23
+420,الطعم بارد جدا,negative,restaurant,msa,2025-03-23
+421,الصدق سرعة الانترنت مو خايسة,positive,telecom,gulf,2025-03-23
+422,بصراحة الاسترجاع زبالة، لا أنصح به,negative,ecommerce,gulf,2025-03-23
+423,بشكل عام لم يعجبني الأسعار والمطعم ليس جيد,negative,restaurant,msa,2025-03-23
+424,تضايقت من الطعم والخدمة متجاهلة,negative,restaurant,msa,2025-03-23
+425,المندوب راقي، ولكن لم أرتح لخدمة التوصيل,negative,delivery,msa,2025-03-23
+426,صراحة ما عجبني الفاتورة,negative,telecom,gulf,2025-03-23
+427,الطلب رقم 2049 وصل يوم السبت,neutral,ecommerce,msa,2025-03-24
+428,للأمانة التغطية تعبانة جدا، ندمت,negative,telecom,msa,2025-03-24
+429,تعامل الموظفين ممتاز جدا جدا,positive,restaurant,msa,2025-03-24
+430,الموقع وحش مرة، لا أنصح به,negative,ecommerce,gulf,2025-03-24
+431,صراحة المطعم طيب كثير https://example.com/x,positive,restaurant,gulf,2025-03-24
+432,يا جماعة الشحن مب في الوقت المحدد، بس استمتعت بالمنتج @support,positive,ecommerce,gulf,2025-03-24
+433,والله تغليف الطلب ما هو قديم,positive,delivery,gulf,2025-03-24
+434,تجربتي: التطبيق ضعيف للغاية والمندوب ليس راقي,negative,delivery,msa,2025-03-24
+435,وقت الوصول جيد للغاية,positive,delivery,msa,2025-03-24
+436,تجربتي: ما عجبني التغليف,negative,ecommerce,msa,2025-03-24
+437,للأمانة خدمة العملاء باردة، لن أكرر التجربة,negative,telecom,msa,2025-03-25
+438,تجربتي: التطبيق بارد، بس لا يوجد اي مشكلة في تغليف الطلب,positive,delivery,msa,2025-03-25
+439,يا جماعة ما ارتحت لالباقة، ولكن التغطية لذيذة,positive,telecom,gulf,2025-03-25
+440,بشكل عام الاسترجاع بارد جدا، بس اـلتغليف نظيف,positive,ecommerce,msa,2025-03-25
+441,الطلب رقم 5993 وصل يوم الأحد,neutral,restaurant,msa,2025-03-25
+442,صراحة المندوب متأخر حيل، ضيعت فلوسي,negative,delivery,gulf,2025-03-25
+443,الخدمة باردة، ولكن وقت التحضير ليس مزعج,positive,restaurant,msa,2025-03-26
+444,بشكل عام المندوب سيء، ما راح أطلب مرة ثانية,negative,delivery,msa,2025-03-26
+445,بصراحة وجبة الغداء متسخة وايد,negative,restaurant,gulf,2025-03-26
+446,يا جماعة تغليف الطلب يجنن كثير، وفقكم الله 😊,positive,delivery,gulf,2025-03-26
+447,تعامل موظف الاستقبال جيد,positive,telecom,msa,2025-03-26
+448,تجربتي: التطبيق بارد للغاية,negative,delivery,msa,2025-03-26
+449,تجربتي: لم يكن الدعم الفني سريع,negative,telecom,msa,2025-03-26
+450,اـلصدق الخدمة حلوة وايد,positive,restaurant,gulf,2025-03-27
+451,للأمانة التغطية نظيفة جدا,positive,telecom,msa,2025-03-27
+452,خددددمة ما بعد البيع محترمة وايد، الله يعطيكم العافية,positive,ecommerce,gulf,2025-03-28
+453,الطلب رقم 8885 وصل يوم الجمعة,neutral,ecommerce,gulf,2025-03-28
+454,بشكل عام الشحن مزعج جدا، ولكن الموقع ممتاز,positive,ecommerce,msa,2025-03-28
+455,للأمانة الطعام ليس مرتب,negative,restaurant,msa,2025-03-28
+456,خدمة العملاء وحشة حيل,negative,telecom,gulf,2025-03-28
+457,في الحقيقة سرعة الانترنت ضعيفة,negative,telecom,msa,2025-03-28
+458,بصراحة الموقع طيب حيل,positive,ecommerce,gulf,2025-03-29
+459,بصراحة جودة المنتج نظيفة مرة,positive,ecommerce,gulf,2025-04-01
+460,سعر الباقة الشهرية 160 ريال,neutral,delivery,msa,2025-04-01
+461,عجبني المنتج، ولكن سعر المنتج وحش,negative,ecommerce,gulf,2025-04-01
+462,للأمانة الجلسة ممتازة للغاية,positive,restaurant,msa,2025-04-01
+463,اريد معرفة سرعة الانترنت قبل الاشتراك,neutral,telecom,msa,2025-04-01
+464,والله تضايقت من الطعم، ضيعت فلوسي,negative,restaurant,gulf,2025-04-02
+465,بصراحة رسوم التوصيل كارثة,negative,delivery,gulf,2025-04-02
+466,يا جماعة التغليف مو قديم والشحن مو مو طبيعي بالسوء,positive,ecommerce,gulf,2025-04-02
+467,الشحن منظم، شكرا لكم ❤,positive,ecommerce,gulf,2025-04-03
+468,في الحقيقة المندوب سريع 👏,positive,delivery,msa,2025-04-03
+469,بصراحة الشبكة مب مرتبة,negative,telecom,gulf,2025-04-03
+470,الطعم ثابتة، ولكن لم يكن الجلسة محترفة,negative,restaurant,msa,2025-04-03
+471,صراحة الجلسة كارثة، ولكن المطعم مب بارد,positive,restaurant,gulf,2025-04-03
+472,الصدق التغطية قديمة مرة، ما انصح فيه,negative,telecom,gulf,2025-04-03
+473,الطلب رقم 5658 وصل يوم الاثنين,neutral,restaurant,gulf,2025-04-04
+474,استلمت الاشتراك الساعة 3,neutral,delivery,msa,2025-04-04
+475,اريد معرفة الطعام قبل الاشتراك,neutral,restaurant,msa,2025-04-04
+476,صراحة الموقع خرافي كثير وجودة المنتج نظيفة مرة,positive,ecommerce,gulf,2025-04-04
+477,ما في اي مشكلة في خدمة العملاء,positive,telecom,gulf,2025-04-04
+478,هل يوجد الشبكة في جدة؟,neutral,telecom,msa,2025-04-04
+479,صراحة استمتعت بالموقع وسعر المنتج تمام,positive,ecommerce,gulf,2025-04-05
+480,الطعام مرتب، أنصح به بشدة,positive,restaurant,msa,2025-04-05
+481,بشكل عام التطبيق رائع للغاية,positive,delivery,msa,2025-04-05
+482,للأمانة اـلتغطية متسخة,negative,telecom,msa,2025-04-06
+483,الطعم تعبان جدا، لكن الخدمة ليس مخيبة 😊,positive,restaurant,msa,2025-04-06
+484,الصدق رسوم التوصيل نار مرة,negative,delivery,gulf,2025-04-07
+485,سرعة الانترنت جيدة 😍,positive,telecom,msa,2025-04-07
+486,بشكل عام وجبة الغداء راقية جدا، بس الأسعار سيئة,negative,restaurant,msa,2025-04-07
+487,والله الشحن ولا غلطة كثير، وفقكم الله #تجربتي,positive,ecommerce,gulf,2025-04-07
+488,والله خدمة العملاء مو سريعة 👎,negative,telecom,gulf,2025-04-07
+489,تجربتي: لم يعجبني سعر المنتج,negative,ecommerce,msa,2025-04-07
+490,الصدق الفاتورة مناسبة كثير 👏,positive,telecom,gulf,2025-04-07
+491,في الحقيقة الطعام نظيف,positive,restaurant,msa,2025-04-07
+492,تجربتي: الطعم ليس ممتاز,negative,restaurant,msa,2025-04-07
+493,التطبيق بايخ وـوقت الوصول بططططيء كثير,negative,delivery,gulf,2025-04-08
+494,بصراحة الباقة مو طبيعية بالسوء وايد,negative,telecom,gulf,2025-04-08
+495,التطبيق ثابتة جدا ووقت الوصول مميز,positive,delivery,msa,2025-04-08
+496,والله الاسترجاع محترم، ولكن ما عجبني خدمة ما بعد البيع,negative,ecommerce,gulf,2025-04-08
+497,الصدق خدمة العملاء غير متعاونة,negative,telecom,gulf,2025-04-08
+498,في الحقيقة ما عجبني الدعم الفني,negative,telecom,msa,2025-04-08
+499,الطلب رقم 7108 وصل يوم الجمعة,neutral,telecom,msa,2025-04-08
+500,سعر الاشتراك 140 ريال,neutral,telecom,gulf,2025-04-09
+501,في الحقيقة الموقع مرتب,positive,ecommerce,msa,2025-04-09
+502,يا جماعة خدمة العملاء بايخة مرة، بس الفاتورة يجنن وايد,positive,telecom,gulf,2025-04-09
+503,تجربتي: المنتج جيد جدا,positive,ecommerce,msa,2025-04-10
+504,بشكل عام الأسعار جيدة، لكن الأكل ليس ممتاز,negative,restaurant,msa,2025-04-10
+505,صراحة جودة المنتج بايخة حيل,negative,ecommerce,gulf,2025-04-10
+506,الباقة مبالغ فيها حيل,negative,telecom,gulf,2025-04-10
+507,السائق سيء والمندوب فووووضوي جدا,negative,delivery,msa,2025-04-10
+508,المندوب مميز، سأأأأكرر التجربة,positive,delivery,msa,2025-04-10
+509,رسوم التوصيل زي غيرها لا اكثر ولا اقل,neutral,delivery,gulf,2025-04-11
+510,بشكل عام التوصيل جيد، بس السائق ليس ممتاز,negative,delivery,msa,2025-04-11
+511,الصدق المندوب كارثة كثير، لا أنصح به,negative,delivery,gulf,2025-04-11
+512,بشكل عام الطعام ليس ممتاز,negative,restaurant,msa,2025-04-11
+513,يا جماعة ما في اي مشكلة في خدمة العملاء,positive,telecom,gulf,2025-04-11
+514,وجبة الغداء خايسة,negative,restaurant,gulf,2025-04-12
+515,وقت الوصول محترف جدا، شكرا لكم,positive,delivery,msa,2025-04-12
+516,الشبكة تعبانة والفاتورة غالية جدا,negative,telecom,msa,2025-04-12
+517,الطعام مخيب للآمال جدا,negative,restaurant,msa,2025-04-12
+518,بشكل عام لا يعتبر الشحن جيد,negative,ecommerce,msa,2025-04-13
+519,رسوم التوصيل مب رخيصة، ما انصح فيه,negative,delivery,gulf,2025-04-13
+520,الشحن عادي لا اكثر ولا اقل,neutral,ecommerce,msa,2025-04-13
+521,المطعم تعبان,negative,restaurant,gulf,2025-04-13
+522,بشكل عام الباقة ممتازة مقابل الجودة، أنصح به بشدة 😊,positive,telecom,msa,2025-04-13
+523,طلبت من مطعم الواحة يوم الثلاثاء,neutral,telecom,gulf,2025-04-14
+524,ما ارتحت لالسائق,negative,delivery,gulf,2025-04-14
+525,تغليف الطلب بايخ حيل,negative,delivery,gulf,2025-04-14
+526,يا جماعة عجبني التغطية https://example.com/x,positive,telecom,gulf,2025-04-14
+527,يا جماعة الباقة مرتفعة وايد,negative,telecom,gulf,2025-04-14
+528,صراحة تضايقت من التوصيل,negative,delivery,gulf,2025-04-14
+529,وقت التحضير ممتاز جدا، بس تعامل الموظفين مـتجاهل,negative,restaurant,msa,2025-04-14
+530,صراحة وقت التحضير خايس كثير ولم يعجبني الأسعار,negative,restaurant,gulf,2025-04-14
+531,والله خدمة العملاء غير متعاونة كثير,negative,telecom,gulf,2025-04-15
+532,يا جماعة تعامل الموظفين ما هو متعاون,negative,restaurant,gulf,2025-04-15
+533,والله الدعم الفني مو طبيعي بالسوء مرة,negative,telecom,gulf,2025-04-15
+534,بشكل عام ما عجبني تعامل الموظفين,negative,restaurant,msa,2025-04-15
+535,والله استمتعت بالمطعم، شكرا لكم 😍,positive,restaurant,gulf,2025-04-15
+536,أعجبني تعامل موظف الاستقبال كثير,positive,telecom,gulf,2025-04-15
+537,تضايقت من تغليف الطلب، بس المندوب سريع كثير,positive,delivery,gulf,2025-04-15
+538,يا جماعة وجبة الغداء مو ممتازة، لكن المطعم نظيف حيل,positive,restaurant,gulf,2025-04-16
+539,لم يكن الباقة غالية، ولكن خدمة العملاء سيئة للغاية 👎,negative,telecom,msa,2025-04-16
+540,صراحة الشحن مو في الوقت المحدد وجودة المنتج باردة كثير,negative,ecommerce,gulf,2025-04-16
+541,يا جماعة المندوب خايس,negative,delivery,gulf,2025-04-16
+542,لا يعتبر الباقة مبالغ، لكن الفاتورة ليس ممتازة @support,negative,telecom,msa,2025-04-16
+543,للأمانة الشحن مزعج,negative,ecommerce,msa,2025-04-17
+544,للأمانة تضايقت من التوصيل، لن أكرر التجربة,negative,delivery,msa,2025-04-17
+545,التغليف ليس مخيب,positive,ecommerce,msa,2025-04-17
+546,الصدق الفاتورة نار مرة، ولكن التغطية طيبة حيل,positive,telecom,gulf,2025-04-17
+547,الخدمة كارثة كثير,negative,restaurant,gulf,2025-04-17
+548,بشكل عام لم يكن التطبيق رائع، تجربة مخيبة,negative,delivery,msa,2025-04-18
+549,بصراحة التطبيق نظيف حيل,positive,delivery,gulf,2025-04-18
+550,لا يعتبر اللللتطبيق ممتاز,negative,delivery,msa,2025-04-18
+551,الطعم جيد، بس المطعم بارد جدا 💔,negative,restaurant,msa,2025-04-18
+552,في الحقيقة وجبة الغداء مزعجة جدا والخدمة غير متعاونة 🤬 @support,negative,restaurant,msa,2025-04-18
+553,الطلب رقم 4644 وصل يوم الثلاثاء,neutral,telecom,gulf,2025-04-18
+554,الصدق لم يعجبني رسوم التوصيل 🤬 #تجربتي,negative,delivery,gulf,2025-04-18
+555,بشكل عام الموقع تعبان للغاية,negative,ecommerce,msa,2025-04-19
+556,للأمانة أعجبني الموقع للغاية,positive,ecommerce,msa,2025-04-19
+557,وجبة الغداء متسخة https://example.com/x,negative,restaurant,msa,2025-04-19
+558,الصدق المندوب مب في الوقت المحدد,negative,delivery,gulf,2025-04-19
+559,الطعم زي غيره لا اكثر ولا اقل,neutral,restaurant,gulf,2025-04-19
+560,المندوب كشخة كثير وخدمة التوصيل مب غير متعاونة,positive,delivery,gulf,2025-04-19
+561,لا يعتبر سعر المنتج ممتاز ولا يعتبر الاسترجاع متعاون,negative,ecommerce,msa,2025-04-19
+562,يا جماعة جودة المنتج مب ولا غلطة,negative,ecommerce,gulf,2025-04-20
+563,بصراحة تغليف الطلب بايخ كثير والسائق مب ولا غلطة,negative,delivery,gulf,2025-04-20
+564,اللللجلسة ما هو طيبة 💔,negative,restaurant,gulf,2025-04-21
+565,الشحن ولا غلطة كثير وعجبني الموقع,positive,ecommerce,gulf,2025-04-21
+566,في الحقيقة لم يكن الخدمة سريعة 🤬,negative,restaurant,msa,2025-04-21
+567,يا جماعة المنتج خاااايس كـثير والشحن زبالة كثير,negative,ecommerce,gulf,2025-04-21
+568,وقت التحضير مزعج للغاية والأكل بارد,negative,restaurant,msa,2025-04-22
+569,لا يعتبر التغليف ثابتة، لن أكرر التجربة,negative,ecommerce,msa,2025-04-22
+570,بصراحة السائق خرافي حيل، ولكن التوصيل فوضوي كثير,negative,delivery,gulf,2025-04-22
+571,بشكل عام التغطية مزعجة,negative,telecom,msa,2025-04-22
+572,الفاتورة مب كشخة,negative,telecom,gulf,2025-04-22
+573,بصراحة التغليف ما هو مرتب، ما انصح فيه,negative,ecommerce,gulf,2025-04-22
+574,تجربتي: لا يعتبر تغليف الطلب ثابتة,negative,delivery,msa,2025-04-22
+575,يا جماعة الأكل تعبان https://example.com/x,negative,restaurant,gulf,2025-04-22
+576,بصراحة رسوم التوصيل مبالغ فيها، تجربة مخيبة,negative,delivery,gulf,2025-04-22
+577,سعر الباقة الشهرية 20 ريال,neutral,delivery,msa,2025-04-23
+578,تجربتي: سرعة الانترنت مزعجة، لكن تعامل موظف الاستقبال جيد جدا,positive,telecom,msa,2025-04-23
+579,تجربتي: ما عجبني تغليف الطلب,negative,delivery,msa,2025-04-23
+580,تجربتي: الأسعار غالية ووجبة الغداء ليس محترفة,negative,restaurant,msa,2025-04-23
+581,الفاتورة رخيصة، وفقكم الله,positive,telecom,msa,2025-04-23
+582,بصراحة السائق يجنن,positive,delivery,gulf,2025-04-23
+583,صراحة جودة المنتج نظيفة,positive,ecommerce,gulf,2025-04-24
+584,للأمانة رسوم التوصيل سيئة,negative,delivery,msa,2025-04-24
+585,لا يعتبر وجبة الغداء غير مقبولة ولم يكن الأكل غير مقبول,positive,restaurant,msa,2025-04-24
+586,التغليف مو متسخ، لكن ما ارتحت لسعر المنتج,negative,ecommerce,gulf,2025-04-25
+587,للأمانة الموقع ثابتة، لكن لا يعتبر جودة المنتج ثابتة,negative,ecommerce,msa,2025-04-25
+588,خدمة التوصيل متوسطة لا اكثر ولا اقل,neutral,delivery,msa,2025-04-25
+589,صـراحة الأسعار مو رخيصة,negative,restaurant,gulf,2025-04-25
+590,تجربتي: السائق متأخر جدا 😒,negative,delivery,msa,2025-04-25
+591,تجربتي: عجبني الأكل، لكن الجلسة قديمة جدا,negative,restaurant,msa,2025-04-25
+592,تجربتي: التطبيق لذيذ,positive,delivery,msa,2025-04-25
+593,الطلب رقم 5602 وصل يوم الاثنين,neutral,telecom,gulf,2025-04-25
+594,اريد معرفة رسوم التوصيل قبل الاشتراك,neutral,delivery,gulf,2025-04-25
+595,لم يكن المندوب جيد، لكن تغليف الطلب رائع,positive,delivery,msa,2025-04-26
+596,الشحن منظم جدا,positive,ecommerce,msa,2025-04-26
+597,بشكل عام تعامل موظف الاستقبال متجاهل للغاية، لن أكرر التجربة,negative,telecom,msa,2025-04-26
+598,للأمانة لا يعتبر المندوب في الوقت المحدد 😡,negative,delivery,msa,2025-04-27
+599,للأمانة لا يعتبر وقت التحضير مميز، تجربة مخيبة,negative,restaurant,msa,2025-04-27
+600,تعامل الموظفين متجاهل جدا، لا أنصح به,negative,restaurant,msa,2025-04-27
+601,يا جماعة سرعة الانترنت تعبانة مرة,negative,telecom,gulf,2025-04-27
+602,طلبت من متجر الندى يوم الخميس,neutral,restaurant,msa,2025-04-27
+603,استلمت الجهاز الساعة 5,neutral,restaurant,msa,2025-04-27
+604,خدمة العملاء مزعجة للغاية، ولكن لم يكن الدعم الفني رديء,positive,telecom,msa,2025-04-28
+605,هل يوجد التطبيق في الرياض؟,neutral,delivery,msa,2025-04-28
+606,فتحت حساب جديد في التطبيق يوم الاثنين,neutral,delivery,msa,2025-04-28
+607,صراحة المطعم قديم وايد، ولكن الطعم خرافي,positive,restaurant,gulf,2025-04-28
+608,تجربتي: وقت الوصول ضعيف والمندوب مزعج,negative,delivery,msa,2025-04-28
+609,خدمة التوصيل محترمة مرة، بس وقت الوصول بطيء,negative,delivery,gulf,2025-04-28
+610,خدمة ما بعد البيع ليس سيئة,positive,ecommerce,msa,2025-04-28
+611,الصدق سرعة الانترنت لذيذة مرة 👍,positive,telecom,gulf,2025-05-01
+612,استلمت الباقة الشهرية الساعة 8,neutral,telecom,msa,2025-05-01
+613,صراحة تعامل الموظفين بايخ كثير، لا أنصح به,negative,restaurant,gulf,2025-05-01
+614,تم تحويل طلبي الى الفرع الرئيسي,neutral,restaurant,gulf,2025-05-02
+615,صراحة الأكل ما هو قديم,positive,restaurant,gulf,2025-05-02
+616,بصراحة الموقع يجنن، ولكن المنتج متسخ,negative,ecommerce,gulf,2025-05-02
+617,لا يوجد اي مشكلة في المنتج، وـلكن الموقع مزعج جدا,negative,ecommerce,msa,2025-05-02
+618,الموقع بارد,negative,ecommerce,msa,2025-05-02
+619,طلبت من متجر الندى يوم السبت,neutral,ecommerce,gulf,2025-05-03
+620,سرعة الانترنت سيئة، ضيعت فللللوسي 🤬,negative,telecom,msa,2025-05-03
+621,صراحة عجبني الفاتورة,positive,telecom,gulf,2025-05-03
+622,بصراحة السائق مب سريع، تجربة مخيبة,negative,delivery,gulf,2025-05-03
+623,خدمة ما بعد البيع رديئة جدا,negative,ecommerce,msa,2025-05-03
+624,المندوب كارثة وايد,negative,delivery,gulf,2025-05-03
+625,سرعة الانترنت تعبانة، بس الفاتورة مناسبة,positive,telecom,msa,2025-05-04
+626,الصدق لم يعجبني المندوب,negative,delivery,gulf,2025-05-04
+627,الصدق الباقة مو مبالغ، ولكن الفاتورة بايخة,negative,telecom,gulf,2025-05-04
+628,صراحة التطبيق نظيف وايد,positive,delivery,gulf,2025-05-04
+629,الموقع فخم مرة، يستاهل التجربة,positive,ecommerce,gulf,2025-05-04
+630,هل يوجد الأسعار في الطائف؟,neutral,restaurant,msa,2025-05-04
+631,سعر الطلب 140 ريال,neutral,restaurant,gulf,2025-05-05
+632,سرعة الانترنت مرتبة حيل,positive,telecom,gulf,2025-05-05
+633,طلبت من متجر الندى يوم الثلاثاء,neutral,restaurant,msa,2025-05-05
+634,والله خدمة العملاء متعاونة,positive,telecom,gulf,2025-05-05
+635,وقت التحضير ضعيف,negative,restaurant,msa,2025-05-06
+636,الصدق سرعة الانترنت يجنن,positive,telecom,gulf,2025-05-06
+637,بشكل عام تعامل موظف الاستقبال متعاون,positive,telecom,msa,2025-05-07
+638,الصدق الأكل لذيذ حيل,positive,restaurant,gulf,2025-05-07
+639,والله سرعة الانترنت تمام حيل,positive,telecom,gulf,2025-05-07
+640,بشكل عام لا يوجد اي مشكلة في التوصيل,positive,delivery,msa,2025-05-07
+641,تجربتي: الدعم الفني غير متعاون، تـجربة مخيبة,negative,telecom,msa,2025-05-07
+642,يا جماعة تغليف الطلب كشخة، ولكن خددددمة التوصيل متجاهلة وايد 😤,negative,delivery,gulf,2025-05-07
+643,الصدق تعامل موظف الاستقبال مو محترم، ما انصح فيه,negative,telecom,gulf,2025-05-07
+644,في الحقيقة لم يكن تغليف الطلب لذيذ وخدمة التوصيل باردة للغاية,negative,delivery,msa,2025-05-08
+645,بشكل عام رسوم التوصيل رخيصة,positive,delivery,msa,2025-05-08
+646,بصراحة استمتعت بالاسترجاع، شكرا لكم,positive,ecommerce,gulf,2025-05-08
+647,صراحة السائق ما هو في الوقت المحدد، بس رسوم التوصيل مب غالية,positive,delivery,gulf,2025-05-08
+648,للأمانة خدمة التوصيل سريعة الرد,positive,delivery,msa,2025-05-08
+649,يا جماعة وجبة الغداء تعبانة، لن أكرر التجربة @support,negative,restaurant,gulf,2025-05-08
+650,صراحة عجبني تغليف الطلب وأعجبني المندوب وايد,positive,delivery,gulf,2025-05-08
+651,صراحة الاسترجاع حلو كثير,positive,ecommerce,gulf,2025-05-08
+652,سعر الجهاز 260 ريال,neutral,telecom,gulf,2025-05-08
+653,الصدق الشبكة بايخة,negative,telecom,gulf,2025-05-08
+654,تعامل موظف الاستقبال ليس سيئا وليس ممتازا,neutral,telecom,msa,2025-05-08
+655,والله الشبكة وحشة,negative,telecom,gulf,2025-05-08
+656,صراحة الموقع ما هو متسخ، لكن المنتج بارد حيل,negative,ecommerce,gulf,2025-05-09
+657,وجبة الغداء مو متسخة والأكل خرافي كثير,positive,restaurant,gulf,2025-05-09
+658,تغليف الطلب بارد #تجربتي,negative,delivery,msa,2025-05-09
+659,صراحة التطبيق ما هو تعبان,positive,delivery,gulf,2025-05-09
+660,المنتج غير مقبول، بس التغليف ممتاز,positive,ecommerce,msa,2025-05-09
+661,تجربتي: لا يعتبر خدمة العملاء متعاونة، لكن سرعة الانترنت ممتازة للغاية 😊,positive,telecom,msa,2025-05-09
+662,استلمت الطلب الساعة 2,neutral,telecom,gulf,2025-05-10
+663,في الحقيقة وقت الوصول فوضوي للغاية @support,negative,delivery,msa,2025-05-10
+664,وقت التحضير سريع,positive,restaurant,gulf,2025-05-10
+665,سرعة الانترنت لذيذة,positive,telecom,msa,2025-05-10
+666,تغليف الطلب كارثة كثير,negative,delivery,gulf,2025-05-10
+667,الشحن متأخر @support,negative,ecommerce,gulf,2025-05-11
+668,في الحقيقة لم يكن التطبيق قديم، شكرا لكم,positive,delivery,msa,2025-05-11
+669,تجربتي: عجبني التوصيل #تجربتي,positive,delivery,msa,2025-05-11
+670,تغليف الطلب قديم حيل,negative,delivery,gulf,2025-05-11
+671,بشكل عام خدمة ما بعد البيع ليس محترمة,negative,ecommerce,msa,2025-05-11
+672,في الحقيقة الفاتورة جيدة، ولكن تعامل موظف الاستقبال مخيب للآمال,negative,telecom,msa,2025-05-11
+673,والله ما في اي مشكلة في التوصيل,positive,delivery,gulf,2025-05-11
+674,تجربتي: خدمة التوصيل متجاهلة,negative,delivery,msa,2025-05-12
+675,التغطية مرتبة وايد، ولكن الباقة مبالغ فيها وايد,negative,telecom,gulf,2025-05-12
+676,للأمانة الدعم الفني ليس بارد وخدمة العملاء ليس متجاهلة,positive,telecom,msa,2025-05-12
+677,المندوب مو وحش ولا ممتاز,neutral,delivery,gulf,2025-05-12
+678,وقت الوصول متأخر وايد، تجربة مخيبة,negative,delivery,gulf,2025-05-12
+679,الصدق تضايقت من الفاتورة وتعامل موظف الاستقبال متجاهل وايد,negative,telecom,gulf,2025-05-13
+680,وجبة الغداء ليس مميزة، ولكن تعامل الموظفين محترف,positive,restaurant,msa,2025-05-13
+681,التوصيل غير مقبول للغاية 🤬,negative,delivery,msa,2025-05-14
+682,للأمانة لا يعتبر سعر المنتج مرتفع، سأكرر التجربة,positive,ecommerce,msa,2025-05-14
+683,للأمانة التغطية لذيذة، الله يعطيكم العافية,positive,telecom,msa,2025-05-14
+684,استلمت الوجبة الساعة 3,neutral,restaurant,msa,2025-05-14
+685,بصراحة ما عجبني وقت التحضير,negative,restaurant,gulf,2025-05-14
+686,المطعم عادي,neutral,restaurant,msa,2025-05-15
+687,سعر الباقة الشهرية 80 ريال,neutral,ecommerce,gulf,2025-05-15
+688,للأمانة خدمة التوصيل ليس راقية,negative,delivery,msa,2025-05-15
+689,الشحن متوسط لا اكثر ولا اقل,neutral,ecommerce,gulf,2025-05-15
+690,التغطية باردة والشبكة قديمة جدا,negative,telecom,msa,2025-05-16
+691,لم يعجبني اـلسائق، لا أنصح به,negative,delivery,msa,2025-05-16
+692,يا جماعة التطبيق طيب مرة 😍,positive,delivery,gulf,2025-05-16
+693,تجربتي: خدمة العملاء غير متعاونة جدا,negative,telecom,msa,2025-05-17
+694,للأمانة الشحن جيد للغاية، وفقكم الله 👏,positive,ecommerce,msa,2025-05-17
+695,الصدق سرعة الانترنت متسخة وايد، بس الشبكة لذيذة حيل,positive,telecom,gulf,2025-05-17
+696,بصراحة المطعم لذيذ وايد، بس الخدمة زبالة وايد,negative,restaurant,gulf,2025-05-17
+697,للأمانة الأكل بارد جدا,negative,restaurant,msa,2025-05-17
+698,المنتج بارد,negative,ecommerce,gulf,2025-05-17
+699,تجربتي: لا يوجد اي مشكلة في الطعام,positive,restaurant,msa,2025-05-18
+700,بشكل عام أعجبني وجبة الغداء للغاية، أنصح به بشدة 😊,positive,restaurant,msa,2025-05-18
+701,فتحت حساب جديد في التطبيق يوم الجمعة,neutral,delivery,msa,2025-05-18
+702,للأمانة لم يعجبني التغطية,negative,telecom,msa,2025-05-18
+703,سعر الاشتراك 130 ريال,neutral,ecommerce,msa,2025-05-18
+704,في الحقيقة تغليف الطلب مزعج، لا أنصح به,negative,delivery,msa,2025-05-18
+705,بشكل عام استمتعت بالطعام، بس وقت التحضير غير مقبول,negative,restaurant,msa,2025-05-18
+706,سعر الوجبة 40 ريال,neutral,ecommerce,gulf,2025-05-19
+707,بصراحة الشبكة مو لذيذة، بس الفاتورة مب مرتفعة 👍,positive,telecom,gulf,2025-05-19
+708,في الحقيقة ما عجبني الشبكة,negative,telecom,msa,2025-05-20
+709,التغليف متسخ مرة,negative,ecommerce,gulf,2025-05-20
+710,تجربتي: الأكل ليس قديم,positive,restaurant,msa,2025-05-21
+711,بصراحة رسوم التوصيل يجنن 😊,positive,delivery,gulf,2025-05-21
+712,بشكل عام سرعة الانترنت ضعيفة للغاية,negative,telecom,msa,2025-05-21
+713,بشكل عام الخدمة متجاهلة للغاية، ما انصح فيه #تجربتي,negative,restaurant,msa,2025-05-21
+714,سعر المنتج وحش حـيل,negative,ecommerce,gulf,2025-05-22
+715,الموقع زي غيره لا اكثر ولا اقل,neutral,ecommerce,gulf,2025-05-22
+716,الموقع متسخ جدا، لا أنصح به,negative,ecommerce,msa,2025-05-22
+717,الشبكة مميزة جدا، يستاهل التجربة 😍,positive,telecom,msa,2025-05-22
+718,يا جماعة السائق ما هو منظم,negative,delivery,gulf,2025-05-22
+719,تجربتي: الموقع ليس ثابتة,negative,ecommerce,msa,2025-05-23
+720,والله لم يعجبني الجلسة,negative,restaurant,gulf,2025-05-23
+721,لم أرتح لرسوم التوصيل 💔,negative,delivery,msa,2025-05-23
+722,الطعم قديم كثير، لن أكرر التجربة,negative,restaurant,gulf,2025-05-23
+723,في الحقيقة المندوب ليس فـوضوي,positive,delivery,msa,2025-05-24
+724,الطلب رقم 2763 وصل يوم الثلاثاء,neutral,ecommerce,gulf,2025-05-24
+725,سعر القسيمة 70 ريال,neutral,telecom,gulf,2025-05-24
+726,للأمانة اـلسائق سريع للغاية,positive,delivery,msa,2025-05-24
+727,الشحن منظم، الله يعطيكم العافية #تجربتي,positive,ecommerce,gulf,2025-05-24
+728,الشبكة نظيفة,positive,telecom,msa,2025-05-24
+729,بصراحة عججججبني الشحن، أنصح به بشدة,positive,ecommerce,gulf,2025-05-25
+730,صراحة التغطية مب تعبانة,positive,telecom,gulf,2025-05-25
+731,تجربتي: الشحن فوضوي للغاية,negative,ecommerce,msa,2025-05-25
+732,لـلأمانة أعجبني الفاتورة,positive,telecom,msa,2025-05-25
+733,صراحة وقت الوصول مب خرافي,negative,delivery,gulf,2025-05-25
+734,الصدق الطعام وحش كثير، ندمت,negative,restaurant,gulf,2025-05-25
+735,يا جماعة الشحن وحش مرة، ضيعت فلوسي,negative,ecommerce,gulf,2025-05-25
+736,والله الخدمة محترمة وايد والأسعار حلوة وايد,positive,restaurant,gulf,2025-05-26
+737,بصراحة المنتج متسخ حيل,negative,ecommerce,gulf,2025-05-26
+738,الصدق خددددمة ما بعد البيع مو سريعة,negative,ecommerce,gulf,2025-05-26
+739,الشبكة مخيبة للآمال جدا,negative,telecom,msa,2025-05-26
+740,بصراحة الجلسة مرتبة حيل,positive,restaurant,gulf,2025-05-26
+741,خدمة العملاء مو طبيعية بالسوء كثثثثير,negative,telecom,gulf,2025-05-27
+742,الطعم لذيذ للغاية، لكن الخدمة غير متعاونة,negative,restaurant,msa,2025-05-27
+743,اريد معرفة المطعم قبل الاشتراك,neutral,restaurant,msa,2025-05-27
+744,في الحقيقة لم يعجبني الدعم الفني,negative,telecom,msa,2025-05-27
+745,للأمانة تعامل الموظفين ضعيف والطعام تعبان @support,negative,restaurant,msa,2025-05-27
+746,والله رسوم التوصيل كارثة,negative,delivery,gulf,2025-05-27
+747,طلبت من متجر النخيل يوم الأحد,neutral,restaurant,msa,2025-05-27
+748,يا جماعة سرعة الانترنت ما هو زبالة,positive,telecom,gulf,2025-05-27
+749,والله خدمة العملاء مب زبالة والتغطية خرافية,positive,telecom,gulf,2025-05-28
+750,المندوب متوسط لا اكثر ولا اقل,neutral,delivery,gulf,2025-05-28
+751,تجربتي: الباقة ليس رائعة وخدمة العملاء مخيبة للآمال,negative,telecom,msa,2025-05-28
+752,بصراحة الباقة رخيصة، بس الدعم الفني متجاهل مرة,negative,telecom,gulf,2025-05-28
+753,الشحن ما هو مو طبيعي بالسوء والموقع خرافي مرة @support,positive,ecommerce,gulf,2025-05-31
+754,الصدق تعامل الموظفين بارد وايد، ما انصح فيه,negative,restaurant,gulf,2025-05-31
+755,الطعم ضعيف، ولكن لم يكن وقت التحضير سيء,positive,restaurant,msa,2025-05-31
+756,والله الفاتورة مرتفعة والتغطية مب تمام,negative,telecom,gulf,2025-05-31
+757,الصدق المطعم طيب كثير وما في اي مشكلة في وجبة الغداء,positive,restaurant,gulf,2025-05-31
+758,الأكل ليس سيئا وليس ممتازا,neutral,restaurant,msa,2025-06-01
+759,عجبني التطبيق,positive,delivery,msa,2025-06-01
+760,الصدق تغليف الطلب بايخ مرة,negative,delivery,gulf,2025-06-01
+761,سرعة الانترنت مو طبيعية بالسوء كثير,negative,telecom,gulf,2025-06-02
+762,التطبيق عادي,neutral,delivery,msa,2025-06-02
+763,ما عجبني خدمة ما بعد البيع والموقع غير مقبول,negative,ecommerce,msa,2025-06-02
+764,اريد معرفة خدمة ما بعد البيع قبل الاشتراك,neutral,ecommerce,msa,2025-06-02
+765,يا جماعة ما ارتحت لالتوصيل ورسوم التوصيل مبالغ فيها حيل 🤬,negative,delivery,gulf,2025-06-02
+766,التغليف سيء 😡,negative,ecommerce,msa,2025-06-02
+767,تجربتي: الطعم قديم جدا,negative,restaurant,msa,2025-06-03
+768,الأكل ممتاز,positive,restaurant,gulf,2025-06-03
+769,تغليف الطلب ليس سيئا وليس ممتازا,neutral,delivery,msa,2025-06-03
+770,في الحقيقة التغليف ثابتة للغاية، وفقكم الله,positive,ecommerce,msa,2025-06-03
+771,ما عجبني سرعة الانترنت,negative,telecom,msa,2025-06-04
+772,صراحة ما عجبني الطعام، لا أنصح به,negative,restaurant,gulf,2025-06-04
+773,تجربتي: لا يعتبر سعر المنتج راااائع,negative,ecommerce,msa,2025-06-04
+774,تجربتي: رسوم التوصيل رديئة للغاية,negative,delivery,msa,2025-06-04
+775,لا يوجد اي مشكلة في جودة المنتج، وراح أطلب مرة ثانية,positive,ecommerce,msa,2025-06-05
+776,صراحة الطعم تعبان وايد,negative,restaurant,gulf,2025-06-05
+777,جودة المنتج نظيفة، الله يعطيكم العافية,positive,ecommerce,gulf,2025-06-05
+778,هل يوجد جودة المنتج في المدينة؟,neutral,ecommerce,gulf,2025-06-05
+779,الباقة زي غيرها لا اكثر ولا اقل,neutral,telecom,gulf,2025-06-05
+780,والله الجلسة نظيفة,positive,restaurant,gulf,2025-06-06
+781,يا جماعة الأكل كشخة حيل,positive,restaurant,gulf,2025-06-06
+782,المنتج مقبول,neutral,ecommerce,msa,2025-06-06
+783,بشكل عام الشحن في الوقت المحدد للغاية,positive,ecommerce,msa,2025-06-06
+784,والله خدمة العملاء ما هو مو طبيعية بالسوء,positive,telecom,gulf,2025-06-06
+785,والله الأكل تعبان وايد، ما راح أطلب مرة ثانية,negative,restaurant,gulf,2025-06-06
+786,خدمة التوصيل غير متعاونة مرة، بس وقت الوصول ما هو زبالة,positive,delivery,gulf,2025-06-07
+787,للأمانة جودة المنتج مححححترفة جدا,positive,ecommerce,msa,2025-06-07
+788,يا جماعة سعر المنتج زبالة مرة,negative,ecommerce,gulf,2025-06-07
+789,يا جماعة وقت الوصول متأخر مرة ورسوم التوصيل غالية وايد 😤,negative,delivery,gulf,2025-06-07
+790,الاسترجاع ليس محترم,negative,ecommerce,msa,2025-06-07
+791,الصدق الباقة ممتازة مقابل الجودة 👍,positive,telecom,gulf,2025-06-08
+792,والله الشحن مو خايس، لكن سعر المنتج مب رخيص,negative,ecommerce,gulf,2025-06-08
+793,للأمانة الشحن فوضوي للغاية,negative,ecommerce,msa,2025-06-08
+794,للأمانة لا يعتبر التوصيل محترف,negative,delivery,msa,2025-06-08
+795,والله خدمة العملاء بايخة حيل، ضيعت فلوسي,negative,telecom,gulf,2025-06-08
+796,الطعم مقبول لا اكثر ولا اقل,neutral,restaurant,gulf,2025-06-09
+797,الخدمة غير متعاونة وايد والجلسة متسخة حيل,negative,restaurant,gulf,2025-06-09
+798,لا يعتبر الشحن ممتاز، بس جـودة المنتج مرتبة جدا,positive,ecommerce,msa,2025-06-09
+799,التطبيق لذيذ للغاية، بس لم أررررتح لتغليف الطلب,negative,delivery,msa,2025-06-09
+800,بشكل عام التغليف رديء جدا,negative,ecommerce,msa,2025-06-09
+801,أعجبني خدمة العملاء كثير، لكن ما عجبني الباقة,negative,telecom,gulf,2025-06-09
+802,بصراحة جودة المنتج باردة كثير والشحن ما هو فخم,negative,ecommerce,gulf,2025-06-09
+803,لم يكن الجلسة محترفة,negative,restaurant,msa,2025-06-10
+804,الصدق التطبيق زبالة، لا أنصح به,negative,delivery,gulf,2025-06-10
+805,الجلسة حلوة وايد والمطعم ممتاز,positive,restaurant,gulf,2025-06-10
+806,الصدق المندوب يجنن وايد,positive,delivery,gulf,2025-06-11
+807,الصدق الجلسة مرتبة وايد,positive,restaurant,gulf,2025-06-11
+808,للأمانة الشبكة تعبانة، تجربة مخيبة,negative,telecom,msa,2025-06-11
+809,استلمت الطلب الساعة 11,neutral,telecom,msa,2025-06-11
+810,بصراحة الطعام متسخ مرة,negative,restaurant,gulf,2025-06-11
+811,الجلسة زي غيرها لا اكثر ولا اقل,neutral,restaurant,gulf,2025-06-11
+812,الصدق سرعة الانترنت مو بايخة,positive,telecom,gulf,2025-06-11
+813,بشكل عام لم يكن الفاتورة جيدة,negative,telecom,msa,2025-06-12
+814,تـغليف الطلب ليس ممتاز @support,negative,delivery,msa,2025-06-12
+815,خدمة التوصيل متعاونة جدا، وفقكم الله,positive,delivery,msa,2025-06-12
+816,الصدق الجلسة مب ممتازة,negative,restaurant,gulf,2025-06-12
+817,وقت التحضير مو وحش ولا ممتاز,neutral,restaurant,gulf,2025-06-13
+818,لم يكن الشبكة قديمة,positive,telecom,msa,2025-06-13
+819,صراحة الدعم الفني غير متعاون كثير,negative,telecom,gulf,2025-06-13
+820,اريد معرفة الأكل قبل الاشتراك,neutral,restaurant,msa,2025-06-13
+821,الجلسة ممتازة جدا,positive,restaurant,msa,2025-06-13
+822,تجربتي: تـغليف الطلب لذيذ ولا يعتبر المندوب مخيب,positive,delivery,msa,2025-06-13
+823,ما عجبني الجلسة، لكن الأسعار جيدة جدا,positive,restaurant,msa,2025-06-14
+824,الصدق التوصيل مو كشخة، ولكن التطبيق لذيذ كثير,positive,delivery,gulf,2025-06-14
+825,للأمانة خدمة التوصيل متجاهلة، لن أكرر التجربة,negative,delivery,msa,2025-06-14
+826,تجربتي: تغليف الطلب لذيذ لللللغاية، ولكن لا يعتبر رسوم التوصيل معقولة,negative,delivery,msa,2025-06-15
+827,للأمانة خدمة ما بعد البيع متجاهلة لللللغاية والتغليف بارد,negative,ecommerce,msa,2025-06-15
+828,التوصيل مب فوضوي,positive,delivery,gulf,2025-06-15
+829,الخدمة غير متعاونة وايد، ما انصح فيه,negative,restaurant,gulf,2025-06-15
+830,تجربتي: لا يعتبر تععععامل الموظفين ممتاز,negative,restaurant,msa,2025-06-15
+831,بشكل عام الأسعار مبالغ فيها,negative,restaurant,msa,2025-06-16
+832,بصراحة التغطية ما هو خايسة، وراح أطلب مرة ثانية,positive,telecom,gulf,2025-06-16
+833,والله الطعم مو مرتب,negative,restaurant,gulf,2025-06-16
+834,والله وقت الوصول مب وحش، بس التطبيق كارثة مرة 😤,negative,delivery,gulf,2025-06-17
+835,الطعم لذيذ حيل,positive,restaurant,gulf,2025-06-17
+836,بشكل عام الطعم لذيذ جدا,positive,restaurant,msa,2025-06-17
+837,والله أعجبني الجلسة، وراح أطلب مرة ثانية,positive,restaurant,gulf,2025-06-17
+838,تجربتي: تضايقت من التغطية ولم يكن الدعم الفني محترم,negative,telecom,msa,2025-06-17
+839,والله سرعة الانترنت تعبانة,negative,telecom,gulf,2025-06-17
+840,بشكل عام لا يعتبر الطعم ثابتة,negative,restaurant,msa,2025-06-17
+841,صراحة خدمة العملاء تمام، أنصح به بشدة,positive,telecom,gulf,2025-06-17
+842,تغليف الطلب ليس رائع، ولكن السائق منظم,positive,delivery,msa,2025-06-18
+843,استلمت الباقة الشهرية الساعة 5,neutral,restaurant,msa,2025-06-18
+844,استلمت الباقة الشهرية الساعة 4,neutral,delivery,msa,2025-06-18
+845,تجربتي: السائق ليس سريع، ولكن تغليف الطلب نظيف,positive,delivery,msa,2025-06-18
+846,الطعم ما هو بارد,positive,restaurant,gulf,2025-06-18
+847,للأمانة الطعم مزعج,negative,restaurant,msa,2025-06-18
+848,صراحة سرعة الانترنت ممتازة,positive,telecom,gulf,2025-06-18
+849,لا يعتبر خدمة العملاء ضعيفة,positive,telecom,msa,2025-06-18
+850,والله التوصيل سريع حيل، أنصح به بشدة,positive,delivery,gulf,2025-06-19
+851,للأمانة استمتعت بسعر المنتج، شكرا لكم,positive,ecommerce,msa,2025-06-19
+852,تغليف الطلب مقبول,neutral,delivery,gulf,2025-06-19
+853,صراحة الأسعار تمام,positive,restaurant,gulf,2025-06-19
+854,الطلب رقم 4496 وصل يوم الاثنين,neutral,ecommerce,msa,2025-06-19
+855,في الحقيقة لا يوجد اي مشكلة في التغطية، بس الباقة مزعجة جدا,negative,telecom,msa,2025-06-19
+856,الموقع لذيذ جدا، بس لم أرتح لسعر المنتج,negative,ecommerce,msa,2025-06-20
+857,بصراحة وقت الوصول مو فخم، ما انصح فيه,negative,delivery,gulf,2025-06-20
+858,بصراحة التغليف تعبان وايد، لكن الشحن منظم وايد,positive,ecommerce,gulf,2025-06-20
+859,صراحة خدمة العملاء مو خرافية، لن أكرر التجربة,negative,telecom,gulf,2025-06-20
+860,المندوب في الوقت المحدد مرة 👏,positive,delivery,gulf,2025-06-20
+861,في الحقيقة لا يعتبر الدعم الفني سريع والفاتورة مخيبة للآمال,negative,telecom,msa,2025-06-20
+862,سعر الوجبة 110 ريال,neutral,telecom,gulf,2025-06-20
+863,تـجربتي: استمتعت بالطعم، سأكرر التجربة,positive,restaurant,msa,2025-06-20
+864,سعر المنتج سيء للغاية ولم أرتح لالتغليف,negative,ecommerce,msa,2025-06-20
+865,الطلب رقم 2071 وصل يوم الاثنين,neutral,ecommerce,gulf,2025-06-21
+866,الطلب رقم 9337 وصل يوم السبت,neutral,telecom,gulf,2025-06-21
+867,بصراحة تغليف الطلب بايخ كثير,negative,delivery,gulf,2025-06-21
+868,يا جماعة التغليف يجنن كثير وعجبني سعر المنتج,positive,ecommerce,gulf,2025-06-21
+869,تجربتي: التغطية لذيذة جدا,positive,telecom,msa,2025-06-21
+870,للأمانة جودة المنتج باردة للغاية,negative,ecommerce,msa,2025-06-21
+871,والله الأسعار بايخة كثير,negative,restaurant,gulf,2025-06-21
+872,استلمت الباقة الشهرية الساعة 6,neutral,restaurant,gulf,2025-06-22
+873,والله خدمة ما بعد البيع مب متعاونة,negative,ecommerce,gulf,2025-06-22
+874,تجربتي: لا يعتبر الأكل لذذذذيذ ووقت التحضير فوضوي للغاية,negative,restaurant,msa,2025-06-22
+875,السائق مو منظم، لكن ما في اي مشكلة في التطبيق https://example.com/x,positive,delivery,gulf,2025-06-22
+876,الصدق وقت الوصول ما هو طيب,negative,delivery,gulf,2025-06-22
+877,الشحن في الوقت المحدد للغاية، وفقكم الله,positive,ecommerce,msa,2025-06-22
+878,التغليف لذيذ مرة,positive,ecommerce,gulf,2025-06-22
+879,استلمت الاشتراك الساعة 9,neutral,delivery,msa,2025-06-23
+880,لم يكن الاسترجاع محترم,negative,ecommerce,msa,2025-06-23
+881,تجربتي: الأسعار مرتفعة,negative,restaurant,msa,2025-06-23
+882,الشحن بطيء حيل، تجربة مخيبة 💔,negative,ecommerce,gulf,2025-06-23
+883,في الحقيقة الباقة مرتفعة,negative,telecom,msa,2025-06-23
+884,في الحقيقة الفاتورة مرتفعة,negative,telecom,msa,2025-06-23
+885,للأمانة خدمة العملاء محترمة جدا,positive,telecom,msa,2025-06-23
+886,صراحة التغطية قديمة,negative,telecom,gulf,2025-06-23
+887,والله ما في اي مشكلة في سعر المنتج,positive,ecommerce,gulf,2025-06-23
+888,اريد معرفة الطعم قبل الاشتراك,neutral,restaurant,msa,2025-06-23
+889,الطعام ما هو زبالة وعجبني الطعم 👍,positive,restaurant,gulf,2025-06-23
+890,خدمة التوصيل مقبولة,neutral,delivery,gulf,2025-06-23
+891,الصدق تعامل موظف الاستقبال غير متعاون وايد,negative,telecom,gulf,2025-06-24
+892,والله المطعم مو فخم، ولكن ما في اي مشكلة في وقت التحضير,positive,restaurant,gulf,2025-06-24
+893,للأمانة لا يوجد اي مشكلة في المنتج، أنصح به بشدة,positive,ecommerce,msa,2025-06-24
+894,الاسترجاع ما هو خرافي,negative,ecommerce,gulf,2025-06-24
+895,لم يكن وجبة الغداء رديئة,positive,restaurant,msa,2025-06-24
+896,للأمانة سعر المنتج غالي,negative,ecommerce,msa,2025-06-25
+897,اـلموقع قديم حيل,negative,ecommerce,gulf,2025-06-25
+898,في الحقيقة الشبكة ممتازة,positive,telecom,msa,2025-06-25
+899,الصدق تضايقت من الشبكة، لن أكرر التجربة,negative,telecom,gulf,2025-06-25
+900,تجربتي: تغليف الطلب متسخ، ضيعت فلوسي 🤬,negative,delivery,msa,2025-06-25
+901,الاسترجاع بارد جدا,negative,ecommerce,msa,2025-06-25
+902,في الحقيقة خدمة التوصيل متعاونة للغاية، لكن ما عجبني التطبيق,negative,delivery,msa,2025-06-25
+903,لم يكن التطبيق بارد والمندوب رائع جدا,positive,delivery,msa,2025-06-25
+904,خدمة العملاء بايخة,negative,telecom,gulf,2025-06-25
+905,بصراحة الأكل مب قديم,positive,restaurant,gulf,2025-06-25
+906,صراحة التغطية مب باردة,positive,telecom,gulf,2025-06-26
+907,للأمانة لم يكن التغليف مرتب والاسترجاع رديء 🤬 https://example.com/x,negative,ecommerce,msa,2025-06-26
+908,بشكل عام لا يعتبر الدعم الفني بارد,positive,telecom,msa,2025-06-26
+909,يا جماعة الشحن مب تمام، بس خدمة ما بعد البيع ما هو باردة,positive,ecommerce,gulf,2025-06-26
+910,والله الطعام حلو وايد,positive,restaurant,gulf,2025-06-26
+911,تغليف الطلب ثابتة حيل,positive,delivery,gulf,2025-06-26
+912,الأكل يجنن، لكن المطعم تعبان,negative,restaurant,gulf,2025-06-27
+913,الصدق الموقع متسخ,negative,ecommerce,gulf,2025-06-27
+914,بشكل عام التطبيق ليس ممتاز,negative,delivery,msa,2025-06-30
+915,والله الفاتورة ما هو مرتفعة #تجربتي,positive,telecom,gulf,2025-06-30
+916,بشكل عام أعجبني خدمة العملاء جدا 👍,positive,telecom,msa,2025-06-30
+917,تجربتي: التوصيل مميز، ولكن رسوم التوصيل مخيبة للآمال,negative,delivery,msa,2025-07-01
+918,الصدق الشحن مو كارثة وما في اي مشكلة في الاسترجاع,positive,ecommerce,gulf,2025-07-01
+919,لم يعجبني التغليف,negative,ecommerce,gulf,2025-07-01
+920,للأمانة المندوب سريع,positive,delivery,msa,2025-07-01
+921,والله السائق ما هو فخم، ندمت 😤,negative,delivery,gulf,2025-07-02
+922,بصراحة التوصيل سريع، الله يعطيكم العافية,positive,delivery,gulf,2025-07-02
+923,للأمانة لا يعتبر الطعام ممتاز,negative,restaurant,msa,2025-07-02
+924,بشكل عام السائق فوضوي وخدمة التوصيل ضعيفة,negative,delivery,msa,2025-07-02
+925,سعر المنتج خايس,negative,ecommerce,gulf,2025-07-02
+926,يا جماعة الفاتورة مرتفعة مرة، لكن خدمة العملاء خرافية,positive,telecom,gulf,2025-07-03
+927,يا جماعة تعامل الموظفين حلو، وفقكم الله,positive,restaurant,gulf,2025-07-03
+928,الصدق سعر المنتج مو غالي,positive,ecommerce,gulf,2025-07-03
+929,وقت التحضير مقبول,neutral,restaurant,msa,2025-07-03
+930,صراحة عجبني التوصيل، لكن المندوب وحش,negative,delivery,gulf,2025-07-03
+931,متى يفتح سوبرماركت الحي؟,neutral,restaurant,msa,2025-07-03
+932,والله الأسعار مبالغ فيها وايد,negative,restaurant,gulf,2025-07-04
+933,تجربتي: الفاتورة ممتازة مـقابل الجودة، وفقكم الله 🔥,positive,telecom,msa,2025-07-04
+934,الطعام مو وحش ولا ممتاز,neutral,restaurant,gulf,2025-07-04
+935,الصدق تضايقت من رسوم التوصيل,negative,delivery,gulf,2025-07-04
+936,بشكل عام عجبني السائق والتطبيق ممتاز للغاية,positive,delivery,msa,2025-07-04
+937,صراحة المنتج بارد، ولكن التغليف مو قديم,positive,ecommerce,gulf,2025-07-04
+938,تعامل موظف الاستقبال مزعج,negative,telecom,msa,2025-07-04
+939,وقت الوصول مقبول لا اكثر ولا اقل,neutral,delivery,msa,2025-07-04
+940,تجربتي: وقت التحضير مزعج جدا والطعام غير مقبول جدا @support,negative,restaurant,msa,2025-07-04
+941,استلمت الجهاز الساعة 10,neutral,telecom,gulf,2025-07-04
+942,اريد معرفة المنتج قبل الاشتراك,neutral,ecommerce,gulf,2025-07-05
+943,تجربتي: تعامل الموظفين غير متعاون,negative,restaurant,msa,2025-07-05
+944,وقت التحضير زي غيره,neutral,restaurant,gulf,2025-07-05
+945,تجربتي: التغطية نظيفة,positive,telecom,msa,2025-07-05
+946,يا جماعة الفاتورة كارثة وتعامل موظف الاستقبال ما هو خرافي,negative,telecom,gulf,2025-07-05
+947,صراحة الجلسة ما هو قديمة,positive,restaurant,gulf,2025-07-05
+948,تم تحويل طلبي الى قسم الدعم,neutral,ecommerce,gulf,2025-07-05
+949,يا جماعة الباقة مب ممتازة,negative,telecom,gulf,2025-07-05
+950,للأمانة تعامل اللللموظفين مميز، بس الأسعار ليس مناسبة,negative,restaurant,msa,2025-07-06
+951,تجربتي: استمتعت بتعامل الموظفين، بس الطعم بارد,negative,restaurant,msa,2025-07-06
+952,استلمت الطلب الساعة 6,neutral,delivery,msa,2025-07-06
+953,الصدق الفاتورة مو رخيصة، لكن أعجبني خدمة العملاء ❤,positive,telecom,gulf,2025-07-06
+954,بشكل عام الموقع مميز جدا https://example.com/x,positive,ecommerce,msa,2025-07-07
+955,لا يعتبر تغليف الطلب رائع,negative,delivery,msa,2025-07-07
+956,الطعام ما هو تعبان,positive,restaurant,gulf,2025-07-07
+957,في الحقيقة الجلسة تعبانة، لكن وقت التحضير سريع جدا,positive,restaurant,msa,2025-07-07
+958,أعجبني سرعة اللللانترنت,positive,telecom,msa,2025-07-07
+959,صراحة تعامل الموظفين غير متعاون,negative,restaurant,gulf,2025-07-07
+960,استلمت القسيمة الساعة 1,neutral,restaurant,msa,2025-07-08
+961,الطلب رقم 8043 وصل يوم الخميس,neutral,ecommerce,msa,2025-07-08
+962,والله تضايقت من تعامل الموظفين، ضيعت فلوسي,negative,restaurant,gulf,2025-07-08
+963,اريد معرفة سعر المنتج قبل الاشتراك,neutral,ecommerce,gulf,2025-07-08
+964,يا جماعة وجبة الغداء مرتبة كثير,positive,restaurant,gulf,2025-07-08
+965,والله المنتج بارد مرة 👎 https://example.com/x,negative,ecommerce,gulf,2025-07-08
+966,في الحقيقة وقت التحضير بطيء,negative,restaurant,msa,2025-07-08
+967,التطبيق رديء,negative,delivery,msa,2025-07-08
+968,يا جـماعة المنتج نظيف حيل,positive,ecommerce,gulf,2025-07-08
+969,لم يعجبني التغليف #تجربتي,negative,ecommerce,gulf,2025-07-08
+970,بصراحة خدمة العملاء زبالة حيل، لكن الباقة منننناسبة كثير,positive,telecom,gulf,2025-07-09
+971,التغطية تعبانة وايد,negative,telecom,gulf,2025-07-09
+972,الصدق عجبني المندوب، بس ما ارتحت لتغليف الطلب 👎,negative,delivery,gulf,2025-07-09
+973,الأسعار معقولة وايد، يستاهل التجربة ❤,positive,restaurant,gulf,2025-07-10
+974,الباقة مو خرافية,negative,telecom,gulf,2025-07-10
+975,تعامل الموظفين بارد كثير,negative,restaurant,gulf,2025-07-10
+976,في الحقيقة وجبة الغداء نظيفة جدا,positive,restaurant,msa,2025-07-11
+977,خدمة العملاء مخيبة للآمال جدا,negative,telecom,msa,2025-07-11
+978,للأمانة لا يعتبر الطعم راقي,negative,restaurant,msa,2025-07-11
+979,وقت الوصول فوضوي والتوصيل ليس سريع,negative,delivery,msa,2025-07-11
+980,في الحقيقة لا يعتبر وقت الوصول متأخر,positive,delivery,msa,2025-07-11
+981,صراحة عجبني تعامل موظف الاستقبال,positive,telecom,gulf,2025-07-12
+982,بشكل عام الباقة ممتازة جدا، شكرا لكم,positive,telecom,msa,2025-07-12
+983,خددددمة العملاء باردة,negative,telecom,msa,2025-07-12
+984,للأمانة الشبكة ممتازة، وفقكم الله,positive,telecom,msa,2025-07-12
+985,سعر المنتج مو طبيعي بالسوء حيل 😤,negative,ecommerce,gulf,2025-07-13
+986,الصدق الفاتورة مناسبة، سأكرر التجربة,positive,telecom,gulf,2025-07-13
+987,هل يوجد وقت الوصول في جدة؟,neutral,delivery,gulf,2025-07-14
+988,المطعم ضعيف جدا، بس الأسعار مناسبة للغاية,positive,restaurant,msa,2025-07-14
+989,بصراحة تغليف الطلب خايس مرة @support,negative,delivery,gulf,2025-07-14
+990,بصراحة السائق حلو مرة، لكن خدمة التوصيل متجاهلة حيل,negative,delivery,gulf,2025-07-14
+991,سعر الجهاز 240 ريال,neutral,ecommerce,gulf,2025-07-14
+992,سعر القسيمة 50 ريال,neutral,ecommerce,gulf,2025-07-14
+993,صراحة خدمة التوصيل وحشة، ما راح أطلب مرة ثانية,negative,delivery,gulf,2025-07-15
+994,اللللصدق الطعم بارد مرة,negative,restaurant,gulf,2025-07-15
+995,الصدق الخدمة خايسة حيل، بس الطعم ثابتة كثير,positive,restaurant,gulf,2025-07-15
+996,تعامل موظف الاستقبال خايس كثير، لكن الدعم الفني مب غير متعاون @support,positive,telecom,gulf,2025-07-16
+997,يا جماعة وقت الوصول مو طبيعي بالسوء مرة,negative,delivery,gulf,2025-07-16
+998,الصدق التغليف بايخ حيل، لن أكرر التجربة,negative,ecommerce,gulf,2025-07-16
+999,صراحة الأكل بارد مرة، لكن عجبني الجلسة,positive,restaurant,gulf,2025-07-16
+1000,لا يعتبر خدمة ما بعد البيع جيدة @support,negative,ecommerce,msa,2025-07-17
+1001,في الحقيقة سرعة الانترنت ممتازة,positive,telecom,msa,2025-07-17
+1002,في الحقيقة تغليف الطلب جيد للغاية، ولكن السائق فوضوي للغاية,negative,delivery,msa,2025-07-17
+1003,رسوم التوصيل خايسة، ولكن المندوب في الوقت المحدد كثير,positive,delivery,gulf,2025-07-17
+1004,الشحن ليس سيئا وليس ممتازا,neutral,ecommerce,msa,2025-07-17
+1005,تجربتي: لم يكن رسوم التوصيل رخيصة,negative,delivery,msa,2025-07-17
+1006,الاسترجاع ممتاز، شكرا لكم,positive,ecommerce,msa,2025-07-18
+1007,تجربتي: التغطية لذيذة للغاية,positive,telecom,msa,2025-07-18
+1008,في الحقيقة تعامل موظف الاستقبال رائع,positive,telecom,msa,2025-07-18
+1009,بصراحة تعامل الموظفين مو محترم، ما راح أطلب مرة ثانية,negative,restaurant,gulf,2025-07-18
+1010,بصراحة الفاتورة رخيصة حيل وخدمة العملاء ولا غلطة,positive,telecom,gulf,2025-07-18
+1011,للأمانة المنتج غير مقبول جدا,negative,ecommerce,msa,2025-07-18
+1012,السائق ليس غير مقبول، بس تضايقت من خدمة التوصيل #تجربتي,negative,delivery,msa,2025-07-18
+1013,بصراحة خدمة اـلتوصيل ولا غلطة مرة والمندوب خرافي,positive,delivery,gulf,2025-07-19
+1014,صراحة عجبني الفاتورة، ولكن التغطية كارثة 😡,negative,telecom,gulf,2025-07-19
+1015,الطلب رقم 7117 وصل يوم الخميس,neutral,telecom,msa,2025-07-19
+1016,في الحقيقة لا يعتبر التطبيق لذيذ، بس السائق ممتاز,positive,delivery,msa,2025-07-19
+1017,في الحقيقة وقت التحضير سريع جدا,positive,restaurant,msa,2025-07-19
+1018,بصراحة خدمة التوصيل سريعة الرد وايد، بس تغليف الطلب بارد كثير,negative,delivery,gulf,2025-07-19
+1019,صراحة سعر المنتج حلو مرة والتغليف فخم كثير,positive,ecommerce,gulf,2025-07-20
+1020,الأسعار مب مرتفعة، الله يعطيكم العافية,positive,restaurant,gulf,2025-07-20
+1021,الصدق الأكل فخم حيل، بس وـجبة الغداء زبالة,negative,restaurant,gulf,2025-07-20
+1022,يا جماعة وجبة الغداء باردة مرة، ما راح أطلب مرة ثانية,negative,restaurant,gulf,2025-07-20
+1023,اريد معرفة الاسترجاع قبل الاشتراك,neutral,ecommerce,gulf,2025-07-20
+1024,لم يعجبني الطعام,negative,restaurant,msa,2025-07-20
+1025,التطبيق زبالة كثير,negative,delivery,gulf,2025-07-21
+1026,الباقة غالية مرة 💔,negative,telecom,gulf,2025-07-21
+1027,بصراحة المنتج قديم وايد,negative,ecommerce,gulf,2025-07-21
+1028,الصدق ما ارتحت لالتطبيق، بس تغليف الطلب ممتاز حيل,positive,delivery,gulf,2025-07-21
+1029,للأمانة وقت الوصول ليس متأخر,positive,delivery,msa,2025-07-21
+1030,وقت الوصول مب بطيء ورسوم التوصيل طيبة مرة @support,positive,delivery,gulf,2025-07-21
+1031,التغطية عادية,neutral,telecom,msa,2025-07-21
+1032,يا جماعة تغليف الطلب متسخ، ما راح أطلب مرة ثانية,negative,delivery,gulf,2025-07-21
+1033,بشكل عام خدمة ما بعد البيع سريعة الرد 😍,positive,ecommerce,msa,2025-07-22
+1034,لم يكن المنتج متسخ، ولكن التغليف قديم,negative,ecommerce,msa,2025-07-22
+1035,تجربتي: التغليف جيد، شكرا لكم,positive,ecommerce,msa,2025-07-22
+1036,الموقع بارد، ولكن خدمة ما بعد البيع ولا غلطة,positive,ecommerce,gulf,2025-07-22
+1037,للأمانة المنتج لذيذ,positive,ecommerce,msa,2025-07-22
+1038,والله الجلسة وحشة حيل,negative,restaurant,gulf,2025-07-22
+1039,الطعم تمام وايد,positive,restaurant,gulf,2025-07-23
+1040,سرعة الانترنت ليس سيئا وليس ممتازا,neutral,telecom,msa,2025-07-23
+1041,اـلأكل ثابتة,positive,restaurant,gulf,2025-07-23
+1042,للأمانة رسوم التوصيل غالية للغاية والسائق بطيء جدا,negative,delivery,msa,2025-07-23
+1043,صراحة الموقع مو طبيعي بالسوء,negative,ecommerce,gulf,2025-07-24
+1044,يا جماعة وقت الوصول ما هو خرافي، لا أنصح به,negative,delivery,gulf,2025-07-24
+1045,طلبت من متجر الندى يوم الجمعة,neutral,delivery,gulf,2025-07-24
+1046,اريد معرفة الأسعار قبل الاشتراك,neutral,restaurant,gulf,2025-07-24
+1047,الصدق الموقع خايس حيل، تجربة مخيبة,negative,ecommerce,gulf,2025-07-24
+1048,تجربتي: لم يكن الطعام جيد,negative,restaurant,msa,2025-07-24
+1049,في الحقيقة لا يعتبر الأسعار مناسبة ولم يكن الجلسة راقية,negative,restaurant,msa,2025-07-24
+1050,والله وقت الوصول مو خايس، ولكن تغليف الطلب بايخ كثير,negative,delivery,gulf,2025-07-24
+1051,هل يوجد السائق في الدمام؟,neutral,delivery,gulf,2025-07-25
+1052,خدمة ما بعد البيع مو طبيعية بالسوء مرة، ولكن الموقع مرتب,positive,ecommerce,gulf,2025-07-25
+1053,بصراحة الشحن باااايخ، ما راح أطلب مرة ثانية,negative,ecommerce,gulf,2025-07-25
+1054,بشكل عام السائق مميز,positive,delivery,msa,2025-07-25
+1055,الأكل عادي,neutral,restaurant,gulf,2025-07-25
+1056,تجربتي: وجبة الغداء ليس غير مقبولة,positive,restaurant,msa,2025-07-25
+1057,يا جمممماعة خدمة العملاء خايسة كثير,negative,telecom,gulf,2025-07-25
+1058,تجربتي: الشبكة ممتازة جدا,positive,telecom,msa,2025-07-25
+1059,الجلسة مزعجة جدا,negative,restaurant,msa,2025-07-25
+1060,بشكل عام سرعة الانترنت ليس متسخة، يستاهل التجربة,positive,telecom,msa,2025-07-25
+1061,الصدق الأكل تعبان حيل، لكن الأسعار معقولة,positive,restaurant,gulf,2025-07-26
+1062,المندوب بطيء للغاية والسائق غير مقبول,negative,delivery,msa,2025-07-26
+1063,صراحة الجلسة ما هو تعبانة,positive,restaurant,gulf,2025-07-26
+1064,والله تعامل موظف الاستقبال يجنن كثير,positive,telecom,gulf,2025-07-26
+1065,سرعة الانترنت خرافية، بس التغطية تعبانة كثير,negative,telecom,gulf,2025-07-26
+1066,بشكل عام لم أرتح لالشحن وتضايقت من الموقع 😡,negative,ecommerce,msa,2025-07-26
+1067,خدمة العملاء مو وحش ولا ممتاز,neutral,telecom,gulf,2025-07-26
+1068,يا جماعة سرعة الانترنت ما هو متسخة,positive,telecom,gulf,2025-07-26
+1069,الصدق الطعم تمام حيل,positive,restaurant,gulf,2025-07-26
+1070,الصدق التغطية زبالة، لكن الفاتورة مناسبة مرة,positive,telecom,gulf,2025-07-26
+1071,صراحة الفاتورة مو مرتفعة,positive,telecom,gulf,2025-07-27
+1072,سرعة الانترنت ثابتة كثير وخدمة العملاء مب بايخة,positive,telecom,gulf,2025-07-27
+1073,ما ارتحت لوقت التحضير,negative,restaurant,gulf,2025-07-27
+1074,بصراحة رسوم التوصيل يجنن حيل,positive,delivery,gulf,2025-07-27
+1075,استمتعت بوجبة الغداء 👍,positive,restaurant,msa,2025-07-27
+1076,الباقة ممتازة مقابل الجودة جدا,positive,telecom,msa,2025-07-30
+1077,طلبت من مطعم السفرة يوم الخميس,neutral,delivery,msa,2025-07-30
+1078,فتحت حساب جديد في التطبيق يوم السبت,neutral,restaurant,msa,2025-07-30
+1079,الطعم قديم وايد، تجربة مخيبة https://example.com/x,negative,restaurant,gulf,2025-07-30
+1080,والله سعر المنتج مب طيب,negative,ecommerce,gulf,2025-07-30
+1081,في الحقيقة وجبة الغداء قديمة جدا، لكن الأسعار ممتازة,positive,restaurant,msa,2025-07-30
+1082,الأكل مقبول,neutral,restaurant,msa,2025-07-30
+1083,تغليف الطلب عادي,neutral,delivery,msa,2025-07-30
+1084,يا جماعة المندوب فوضوي كثير ووقت الوصول بايخ,negative,delivery,gulf,2025-07-30
+1085,وقت التحضير جيد وتعامل اللللموظفين ليس متجاهل,positive,restaurant,msa,2025-07-30
+1086,الطعم متوسط لا اكثر ولا اقل,neutral,restaurant,msa,2025-07-31
+1087,الدعم الفني مو وحش ولا ممتاز,neutral,telecom,gulf,2025-07-31
+1088,الصدق تعامل موظف الاستقبال مو محترم، لكن الشبكة لذيذة حيل,positive,telecom,gulf,2025-07-31
+1089,الصدق وجبة الغداء مرتبة,positive,restaurant,gulf,2025-07-31
+1090,تجربتي: عجبني خدمة ما بعد البيع وجودة المنتج ثابتة 😊,positive,ecommerce,msa,2025-07-31
+1091,الصدق التغليف متسخ حيل #تجربتي,negative,ecommerce,gulf,2025-07-31
+1092,تعامل الموظفين ليس ضعيف، بس ما عجبني الأسعار,negative,restaurant,msa,2025-07-31
+1093,استلمت القسيمة الساعة 10,neutral,restaurant,msa,2025-07-31
+1094,بصراحة السائق خايس #تجربتي,negative,delivery,gulf,2025-07-31
+1095,صراحة تعامل موظف اللللاستقبال حلو وايد,positive,telecom,gulf,2025-07-31
+1096,المطعم مميز للغاية @support,positive,restaurant,msa,2025-08-01
+1097,في الحقيقة لم يعجبني خدمة العملاء,negative,telecom,msa,2025-08-01
+1098,لا يوجد اي مشكلة في وجبة الغداء، ولكن الأسعار غالية,negative,restaurant,msa,2025-08-01
+1099,المنتج بايخ,negative,ecommerce,gulf,2025-08-01
+1100,استلمت الباقة الشهرية الساعة 7,neutral,delivery,msa,2025-08-01
+1101,بصراحة المطعم متسخ مرة,negative,restaurant,gulf,2025-08-01
+1102,بصراحة التغليف وحش حيل، بس المنتج نظيف كثير,positive,ecommerce,gulf,2025-08-01
+1103,بصراحة ما في اي مشكلة في التغليف، الله يعطيكم العافية,positive,ecommerce,gulf,2025-08-02
+1104,الشحن مب متأخر وأعجبني جودة المنتج,positive,ecommerce,gulf,2025-08-02
+1105,بصراحة وقت التحضير بطيء,negative,restaurant,gulf,2025-08-02
+1106,والله تعامل موظف الاستقبال مو طبيعي بالسوء، ما انصح فيه,negative,telecom,gulf,2025-08-02
+1107,للأمانة جودة المنتج لذيذة,positive,ecommerce,msa,2025-08-02
+1108,صراحة الاسترجاع مب محترم، ما انصح فيه,negative,ecommerce,gulf,2025-08-02
+1109,بشكل عام الدعم الفني مخيب للآمال للغاية,negative,telecom,msa,2025-08-02
+1110,بشكل عام جودة المنتج مرتبة للغاية، سأكرر التجربة,positive,ecommerce,msa,2025-08-02
+1111,للأمانة المنتج لذيذ للغاية، أنصح به بشدة,positive,ecommerce,msa,2025-08-03
+1112,يا جماعة الفاتورة ممتازة مقابل الجودة كثير والشبكة مرتبة كثير,positive,telecom,gulf,2025-08-03
+1113,السائق في الوقت المحدد جدا,positive,delivery,msa,2025-08-03
+1114,الطلب رقم 1125 وصل يوم الجمعة,neutral,telecom,gulf,2025-08-03
+1115,للأمانة الشبكة مزعجة,negative,telecom,msa,2025-08-04
+1116,في الحقيقة لم يكن الخدمة متجاهلة,positive,restaurant,msa,2025-08-04
+1117,والله المنتج ما هو لذيذ، لكن سعر المنتج فخم حيل,positive,ecommerce,gulf,2025-08-04
+1118,الطعام ممتاز، سأكرر التجربة,positive,restaurant,msa,2025-08-04
+1119,الشبكة يجنن مرة، ولكن تعامل موظف الاستقبال مب كشخة,negative,telecom,gulf,2025-08-04
+1120,صـراحة المندوب يجنن كثير,positive,delivery,gulf,2025-08-05
+1121,سعر المنتج متوسط,neutral,ecommerce,msa,2025-08-05
+1122,يا جماعة المنتج مو كارثة,positive,ecommerce,gulf,2025-08-05
+1123,للأمانة سرعة الانترنت ثابتة,positive,telecom,msa,2025-08-06
+1124,يا جماعة اـلدعم الفني متعاون كثير,positive,telecom,gulf,2025-08-06
+1125,يا جماعة التطبيق مب متسخ، ولكن تغليف الطلب مب طيب,negative,delivery,gulf,2025-08-06
+1126,الصدق خدمة العملاء زبالة مرة #تجربتي,negative,telecom,gulf,2025-08-07
+1127,صراحة وقت الوصول كارثة، ولكن خدمة التوصيل حلوة مرة,positive,delivery,gulf,2025-08-07
+1128,صراحة الأسعار مبالغ فيها، تجربة مخيبة,negative,restaurant,gulf,2025-08-07
+1129,وقت الوصول بايخ حيل، ولكن أعجبني التطبيق كثير,positive,delivery,gulf,2025-08-07
+1130,بشكل عام خدمة ما بعد البيع محترفة للغاية، وراح أطلب مرة ثانية,positive,ecommerce,msa,2025-08-08
+1131,في الحقيقة الفاتورة راقية للغاية,positive,telecom,msa,2025-08-08
+1132,الباقة مو طبيعية بالسوء، ما انصح فيه,negative,telecom,gulf,2025-08-08
+1133,تجربتي: سرعة الانترنت سيئة,negative,telecom,msa,2025-08-08
+1134,تجربتي: وجبة الغداء رديئة جدا، ولكن تعامل الموظفين سريع الرد,positive,restaurant,msa,2025-08-09
+1135,تجربتي: لم يكن تغليف الطلب جيد,negative,delivery,msa,2025-08-09
+1136,تعامل موظف الاستقبال فخم وايد، سأكرر التجربة,positive,telecom,gulf,2025-08-09
+1137,سرعة الانترنت باردة,negative,telecom,msa,2025-08-09
+1138,خدمة التوصيل محترفة للغاية، الله يعطيكم العافية,positive,delivery,msa,2025-08-09
+1139,الاسترجاع رديء للغاية، ولكن الموقع ثابتة,positive,ecommerce,msa,2025-08-09
+1140,الخدمة سريعة الرد جدا ولا يعتبر الأكل قديم,positive,restaurant,msa,2025-08-09
+1141,تجربتي: المطعم ضعيف، بس وقت التحضير محترف ❤,positive,restaurant,msa,2025-08-10
+1142,وقت الوصول متأخر مرة، ما انصح فيه,negative,delivery,gulf,2025-08-10
+1143,صراحة ما ارتحت لالمنتج، بس جودة المنتج خرافية وايد,positive,ecommerce,gulf,2025-08-10
+1144,الاسترجاع مقبول,neutral,ecommerce,gulf,2025-08-11
+1145,يا جماعة المنتج ما هو بايخ، بس الموقع خايس مرة 🤬,negative,ecommerce,gulf,2025-08-11
+1146,للأمانة الموقع بارد للغاية,negative,ecommerce,msa,2025-08-11
+1147,بشكل عام ما عجبني الأكل، ضيعت فلوسي,negative,restaurant,msa,2025-08-12
+1148,المندوب مميز جدا,positive,delivery,msa,2025-08-12
+1149,جودة المنتج راقية والشحن منظم للغاية,positive,ecommerce,msa,2025-08-12
+1150,هل يوجد الاسترجاع في الدمام؟,neutral,ecommerce,gulf,2025-08-13
+1151,لا يعتبر وجبة الغداء سيئة,positive,restaurant,msa,2025-08-13
+1152,رسوم التوصيل مرتفعة، ولكن وقت الوصول ممتاز جدا,positive,delivery,msa,2025-08-13
+1153,يا جماعة المنتج بارد كثير,negative,ecommerce,gulf,2025-08-13
+1154,تجربتي: لا يعتبر الخدمة رديئة، شكرا لكم,positive,restaurant,msa,2025-08-13
+1155,بشكل عام المندوب ممتاز جدا 👍,positive,delivery,msa,2025-08-13
+1156,بشكل عام لم يكن الاسترجاع رديء,positive,ecommerce,msa,2025-08-14
+1157,في الحقيقة جودة المنتج متسخة,negative,ecommerce,msa,2025-08-14
+1158,التوصيل مقبول لا اكثر ولا اقل,neutral,delivery,gulf,2025-08-14
+1159,في الحقيقة وقت الوصول مميز للغاية، وراح أطلب مرة ثانية,positive,delivery,msa,2025-08-15
+1160,الطعم مزعج,negative,restaurant,msa,2025-08-15
+1161,الدعم الفني مو حلو وتعامل موظف الاستقبال بارد وايد,negative,telecom,gulf,2025-08-15
+1162,يا جماعة ما ارتحت لالدعم الفني,negative,telecom,gulf,2025-08-15
+1163,التوصيل فوضوي حيل #تجربتي,negative,delivery,gulf,2025-08-15
+1164,استمتعت بالباقة,positive,telecom,gulf,2025-08-16
+1165,هل يوجد جودة المنتج في مكة؟,neutral,ecommerce,gulf,2025-08-16
+1166,للأمانة الأكل ثابتة,positive,restaurant,msa,2025-08-16
+1167,والله الأكل ما هو ثابتة,negative,restaurant,gulf,2025-08-17
+1168,والله جودة المنتج باردة مرة والتغليف متسخ حيل,negative,ecommerce,gulf,2025-08-17
+1169,يا جماعة الشبكة قديمة كثير,negative,telecom,gulf,2025-08-17
+1170,الشحن ممتاز جدا,positive,ecommerce,msa,2025-08-17
+1171,متى يفتح متجر النخيل؟,neutral,restaurant,msa,2025-08-17
+1172,صراحة التغطية مب خايسة,positive,telecom,gulf,2025-08-18
+1173,الموقع بايخ كثير، لكن الشحن طيب كثير,positive,ecommerce,gulf,2025-08-18
+1174,يا جماعة الخدمة مو محترمة ووقت التحضير مو في الوقت المحدد,negative,restaurant,gulf,2025-08-18
+1175,وجبة الغداء ما هو مرتبة، ولكن تعامل الموظفين محترم,positive,restaurant,gulf,2025-08-19
+1176,بشكل عام لا يعتبر خدمة ما بعد البيع متعاونة، تججججربة مخيبة,negative,ecommerce,msa,2025-08-19
+1177,الشبكة باردة,negative,telecom,msa,2025-08-20
+1178,سرعة الانترنت لذيذة للغاية,positive,telecom,msa,2025-08-20
+1179,يا جماعة المطعم مو كشخة، لن أكرر التجربة,negative,restaurant,gulf,2025-08-20
+1180,سعر الباقة الشهرية 210 ريال,neutral,delivery,gulf,2025-08-20
+1181,تجربتي: استمتعت بالباقة، ولكن الدعم الفني متجاهل,negative,telecom,msa,2025-08-20
+1182,صراحة السائق فوضوي حيل,negative,delivery,gulf,2025-08-20
+1183,الصدق ما ارتحت لخدمة ما بعد البيع,negative,ecommerce,gulf,2025-08-20
+1184,في الحقيقة لم يكن تعامل موظف الاستقبال سريع 🤬,negative,telecom,msa,2025-08-20
+1185,الصدق الخدمة مو طبيعية بالسوء مرة #تجربتي,negative,restaurant,gulf,2025-08-20
+1186,تجربتي: الجلسة مرتبة,positive,restaurant,msa,2025-08-20
+1187,للأمانة المنتج ليس قديم، لكن الموقع ليس ممتاز,negative,ecommerce,msa,2025-08-21
+1188,للأمانة رسوم التوصيل مبالغ فيها للغاية، ولكن السائق منظم 🔥,positive,delivery,msa,2025-08-21
+1189,الطعام ممتاز,positive,restaurant,msa,2025-08-21
+1190,في الحقيقة جودة المنتج ممتازة للغاية,positive,ecommerce,msa,2025-08-21
+1191,هل يوجد رسوم التوصيل في جدة؟,neutral,delivery,gulf,2025-08-21
+1192,للأمانة وقت التحضير فوضوي للغاية، ولكن الأكل جيد جدا,positive,restaurant,msa,2025-08-22
+1193,هل يوجد التغطية في المدينة؟,neutral,telecom,msa,2025-08-22
+1194,والله السائق مو يجنن، لكن رسوم التوصيل ما هو مبالغ,positive,delivery,gulf,2025-08-22
+1195,الصدق جودة المنتج متسخة حيل,negative,ecommerce,gulf,2025-08-22
+1196,والله الشبكة مرتبة مرة والتغطية مو مو طبيعية بالسوء,positive,telecom,gulf,2025-08-22
+1197,رسوم التوصيل ما هو غالية، ولكن التطبيق بارد,negative,delivery,gulf,2025-08-22
+1198,بصراحة الشحن زبالة,negative,ecommerce,gulf,2025-08-23
+1199,للأمانة لا يوجد اي مشكلة في سرعة الانترنت,positive,telecom,msa,2025-08-23
+1200,يا جماعة خدمة التوصيل باردة,negative,delivery,gulf,2025-08-23
+1201,تجربتي: وقت التحضير مميز للغاية، بس الجلسة قديمة,negative,restaurant,msa,2025-08-23
+1202,الصدق سرعة الانترنت ما هو كشخة,negative,telecom,gulf,2025-08-24
+1203,يا جماعة الاسترجاع محترم حيل,positive,ecommerce,gulf,2025-08-24
+1204,والله السائق مب سريع، ضيعت فلوسي,negative,delivery,gulf,2025-08-24
+1205,تجربتي: لا يعتبر الطعام غير مقبول، ولكن الخدمة غير مقبولة جدا,negative,restaurant,msa,2025-08-24
+1206,يا جماعة الشبكة ممتازة حيل,positive,telecom,gulf,2025-08-24
+1207,يا جماعة الشحن مو في الوقت المحدد,negative,ecommerce,gulf,2025-08-24
+1208,الصدق استمتعت بسرعة الانترنت، وفقكم الله,positive,telecom,gulf,2025-08-25
+1209,بشكل عام لم أرتح لالتغطية، بس تعامل موظف الاستقبال رائع https://example.com/x,positive,telecom,msa,2025-08-25
+1210,استلمت الطلب الساعة 3,neutral,ecommerce,gulf,2025-08-25
+1211,والله السائق في الوقت المحدد، يستاهل التجربة,positive,delivery,gulf,2025-08-25
+1212,بشكل عام استمتعت بوجبة الغداء #تجربتي,positive,restaurant,msa,2025-08-25
+1213,متى يفتح كافيه الريف؟,neutral,restaurant,msa,2025-08-25
+1214,بصراحة رسوم التوصيل مو مبالغ,positive,delivery,gulf,2025-08-26
+1215,التغليف لذيذ، وفقكم الله,positive,ecommerce,gulf,2025-08-26
+1216,لا يعتبر وجبة الغداء تعبانة، وراح أطلب مرة ثانية,positive,restaurant,msa,2025-08-26
+1217,بشكل عام لم يكن الفاتورة محترفة,negative,telecom,msa,2025-08-26
+1218,للأمانة جودة المنتج مخيبة للآمال جدا,negative,ecommerce,msa,2025-08-26
+1219,المطعم مرتب,positive,restaurant,gulf,2025-08-29
+1220,في الحقيقة الشبكة قديمة جدا,negative,telecom,msa,2025-08-29
+1221,والله الأكل مب ممتاز، لكن تعامل الموظفين كشخة,positive,restaurant,gulf,2025-08-29
+1222,في الحقيقة لا يعتبر تعامل موظف الاستقبال غير متعاون 🔥,positive,telecom,msa,2025-08-29
+1223,والله الموقع مب ثابتة، ما راح أطلب مرة ثانية 💔,negative,ecommerce,gulf,2025-08-29
+1224,يا جماعة الشحن تممممام مـرة,positive,ecommerce,gulf,2025-08-29
+1225,وقت التحضير رائع,positive,restaurant,msa,2025-08-30
+1226,للأمانة سعر المنتج معقول جدا 👏,positive,ecommerce,msa,2025-08-30
+1227,في الحقيقة الموقع متسخ جدا، لكن لا يعتبر سعر المنتج غالي,positive,ecommerce,msa,2025-08-30
+1228,تجربتي: وجبة الغداء ليس ضعيفة والمطعم محترف #تجربتي,positive,restaurant,msa,2025-08-30
+1229,لم يكن وقت التحضير سريع، تجربة مخيبة,negative,restaurant,msa,2025-08-30
+1230,صراحة تعامل الموظفين سريع الرد,positive,restaurant,gulf,2025-08-30
+1231,التطبيق ضعيف للغاية 😤 #تجربتي,negative,delivery,msa,2025-08-31
+1232,في الحقيقة الباقة غالية، لكن لا يوجد اي مشكلة في سرعة الانترنت,positive,telecom,msa,2025-08-31
+1233,وش وقت يفتح كافيه الريف؟,neutral,restaurant,gulf,2025-08-31
+1234,صراحة التغطية مرتبة مرة 👏,positive,telecom,gulf,2025-08-31
+1235,الصدق وقت التحضير طيب كثير، بس الأسعار غالية مرة,negative,restaurant,gulf,2025-09-01
+1236,والله الشبكة ولا غلطة وايد,positive,telecom,gulf,2025-09-01
+1237,صراحة التغطية باردة مرة، لكن الباقة طيبة حيل,positive,telecom,gulf,2025-09-01
+1238,في الحقيقة المنتج مخيب للآمال، ولكن الموقع ليس مزعج ❤,positive,ecommerce,msa,2025-09-01
+1239,يا جماعة المنتج متسخ حيل، ندمت,negative,ecommerce,gulf,2025-09-01
+1240,وجبة الغداء عادية لا اكثر ولا اقل,neutral,restaurant,msa,2025-09-01
+1241,السائق في الوقت المحدد، بس التطبيق ضعيف جدا,negative,delivery,msa,2025-09-02
+1242,صراحة الأسعار مناسبة كثير، يستاهل التجربة,positive,restaurant,gulf,2025-09-02
+1243,خدمة التوصيل زبالة وايد، بس السائق منظم,positive,delivery,gulf,2025-09-02
+1244,للأمانة لا يوجد اي مشكلة في الفاتورة,positive,telecom,msa,2025-09-02
+1245,سرعة الانترنت ليس ممتازة، ولكن الشبكة رائعة للغاية,positive,telecom,msa,2025-09-02
+1246,في الحقيقة الاسترجاع مميز للغاية وخدمة ما بعد البيع ممتازة جدا جدا 👏,positive,ecommerce,msa,2025-09-02
+1247,والله الطعم بارد وايد,negative,restaurant,gulf,2025-09-02
+1248,تجربتي: استمتعت بالأسعار,positive,restaurant,msa,2025-09-02
+1249,تجربتي: استمتعت بالجلسة والأسعار ليس مبالغ,positive,restaurant,msa,2025-09-02
+1250,لم يكن تعامل الموظفين مخيب,positive,restaurant,msa,2025-09-03
+1251,بصراحة الخدمة مو طبيعية بالسوء ولم يعجبني تعامل الموظفين,negative,restaurant,gulf,2025-09-03
+1252,تضايقت من الباقة,negative,telecom,gulf,2025-09-03
+1253,تعامل موظف الاستقبال تمام وايد والفاتورة مب نار,positive,telecom,gulf,2025-09-03
+1254,للأمانة خدمة التوصيل ممتازة جدا,positive,delivery,msa,2025-09-03
+1255,بشكل عام استمتعت بالمطعم، وراح أطلب مرة ثانية 🔥,positive,restaurant,msa,2025-09-04
+1256,طلبت من مطعم السفرة يوم الجمعة,neutral,telecom,gulf,2025-09-04
+1257,سعر المنتج مو خرافي وجودة المنتج زبالة,negative,ecommerce,gulf,2025-09-04
+1258,التوصيل منظم للغاية @support,positive,delivery,msa,2025-09-04
+1259,فتحت حساب جديد في التطبيق يوم الأحد,neutral,telecom,msa,2025-09-04
+1260,وقت الوصول جيد https://example.com/x,positive,delivery,msa,2025-09-04
+1261,بصراحة رسوم التوصيل ممتازة مقابل الجودة,positive,delivery,gulf,2025-09-04
+1262,الأسعار مو بايخة وأعجبني تعامل الموظفين @support,positive,restaurant,gulf,2025-09-04
+1263,صراحة الموقع ما هو زبالة,positive,ecommerce,gulf,2025-09-04
+1264,الباقة مبالغ فيها,negative,telecom,msa,2025-09-04
+1265,والله ما ارتحت لالخدمة وما ارتحت لالجلسة,negative,restaurant,gulf,2025-09-04
+1266,وقت التحضير متوسط لا اكثر ولا اقل,neutral,restaurant,gulf,2025-09-05
+1267,في الحقيقة الشحن محترف جدا، ولكن خدمة ما بعد البيع غير متعاونة جدا,negative,ecommerce,msa,2025-09-05
+1268,الصدق التطبيق قديم وايد,negative,delivery,gulf,2025-09-05
+1269,يا جماعة الشبكة ممتازة مرة,positive,telecom,gulf,2025-09-05
+1270,لا يوجد اي مشكلة في الطعم، أنصح به بشدة,positive,restaurant,msa,2025-09-05
+1271,الصدق التوصيل ما هو سريع #تجربتي,negative,delivery,gulf,2025-09-05
+1272,الصدق الخدمة محترمة مرة #تجربتي,positive,restaurant,gulf,2025-09-06
+1273,طلبت من سوبرماركت الحي يوم الأربعاء,neutral,ecommerce,msa,2025-09-06
+1274,المندوب ليس سيئا وليس ممتازا,neutral,delivery,msa,2025-09-06
+1275,بصراحة ما في اي مشكلة في الموقع ❤,positive,ecommerce,gulf,2025-09-06
+1276,صراحة خدمة العملاء حلوة كثير والشبكة كشخة كثير,positive,telecom,gulf,2025-09-06
+1277,بصراحة خدمة ما بعد البيع مب حلوة,negative,ecommerce,gulf,2025-09-06
+1278,والله الطعم ما هو بايخ,positive,restaurant,gulf,2025-09-06
+1279,للأمانة الاسترجاع ممتاز جدا,positive,ecommerce,msa,2025-09-06
+1280,تجربتي: خدمة ما بعد البيع محترمة، أنصح به بشدة,positive,ecommerce,msa,2025-09-07
+1281,والله السائق كشخة,positive,delivery,gulf,2025-09-07
+1282,بصراحة التوصيل مب متأخر، سأكرر التجربة,positive,delivery,gulf,2025-09-07
+1283,استلمت الوجبة الساعة 7,neutral,delivery,msa,2025-09-07
+1284,يا جماعة خدمة العملاء مو تمام,negative,telecom,gulf,2025-09-07
+1285,بصراحة ما في اي مشكلة في الفاتورة، بس الشبكة مو تمام,negative,telecom,gulf,2025-09-07
+1286,الجلسة ليس تعبانة ولا يوجد اي مشكلة في تعامل الموظفين,positive,restaurant,msa,2025-09-08
+1287,السائق منظم,positive,delivery,gulf,2025-09-08
+1288,تغليف الطلب تعبان,negative,delivery,msa,2025-09-08
+1289,في الحقيقة المندوب ليس مخيب، بس وقت الوصول متأخر للغاية,negative,delivery,msa,2025-09-09
+1290,الطلب رقم 2410 وصل يوم الأحد,neutral,restaurant,gulf,2025-09-09
+1291,سعر الوجبة 70 ريال,neutral,delivery,msa,2025-09-09
+1292,هل يوجد رسوم التوصيل في الرياض؟,neutral,delivery,msa,2025-09-09
+1293,صراحة الشحن سريع,positive,ecommerce,gulf,2025-09-09
+1294,الطلب رقم 7024 وصل يوم الجمعة,neutral,restaurant,gulf,2025-09-09
+1295,للأمانة لا يعتبر الشبكة ممتازة 😡,negative,telecom,msa,2025-09-10
+1296,بصراحة تعامل الموظفين تمام,positive,restaurant,gulf,2025-09-10
+1297,الاسترجاع فخم,positive,ecommerce,gulf,2025-09-10
+1298,في الحقيقة رسوم التوصيل ليس مميزة,negative,delivery,msa,2025-09-10
+1299,سعر المنتج ولا غلطة مرة، بس الاسترجاع متجاهل,negative,ecommerce,gulf,2025-09-11
+1300,يا جماعة التغطية ممتازة وايد,positive,telecom,gulf,2025-09-11
+1301,صراحة ما ارتحت لرسوم التوصيل، لكن وقت الوصول فخم,positive,delivery,gulf,2025-09-11
+1302,الصدق الجلسة باردة مرة,negative,restaurant,gulf,2025-09-11
+1303,سعر المنتج مو غالي,positive,ecommerce,gulf,2025-09-11
+1304,في الحقيقة لا يوجد اي مشكلة في سرعة الانترنت وأعجبني الفاتورة,positive,telecom,msa,2025-09-12
+1305,بصراحة سعر المنتج مب بايخ,positive,ecommerce,gulf,2025-09-12
+1306,يا جماعة خدمة ما بعد البيع طيبة وايد 🔥 https://example.com/x,positive,ecommerce,gulf,2025-09-12
+1307,بصراحة الاسترجاع كشخة حيل، وراح أطلب مرة ثانية,positive,ecommerce,gulf,2025-09-12
+1308,في الحقيقة لا يعتبر وقت التحضير متأخر، سأكرر التجربة,positive,restaurant,msa,2025-09-12
+1309,للأمانة لم يكن الموقع راقي والتغليف ليس ممتاز,negative,ecommerce,msa,2025-09-12
+1310,سرعة الانترنت مرتبة للغاية وخدمة العملاء راقية,positive,telecom,msa,2025-09-12
+1311,بشكل عام تعامل الموظفين مـمتاز,positive,restaurant,msa,2025-09-12
+1312,سعر القسيمة 20 ريال,neutral,restaurant,msa,2025-09-13
+1313,الجلسة متسخة جدا,negative,restaurant,msa,2025-09-13
+1314,صراحة لم يعجبني رسوم التوصيل 😒,negative,delivery,gulf,2025-09-13
+1315,الشحن في الوقت المحدد جدا,positive,ecommerce,msa,2025-09-13
+1316,بصراحة وقت الوصول ما هو مو طبيعي بالسوء,positive,delivery,gulf,2025-09-13
+1317,جودة المنتج نظيفة جدا، يستاهل التجربة,positive,ecommerce,msa,2025-09-13
+1318,الطعم ليس مرتب، ما راح أطلب مرة ثانية,negative,restaurant,msa,2025-09-14
+1319,بشكل عام الموقع مخيب للآمال,negative,ecommerce,msa,2025-09-14
+1320,خدمة العملاء ليس ضعيفة,positive,telecom,msa,2025-09-14
+1321,تعامل الموظفين مب بارد,positive,restaurant,gulf,2025-09-15
+1322,تجربتي: الباقة ليس مناسبة,negative,telecom,msa,2025-09-16
+1323,الدعم الفني يجنن حيل وسرعة الانترنت نظيفة وايد,positive,telecom,gulf,2025-09-17
+1324,متى يفتح مطعم الواحة؟,neutral,restaurant,msa,2025-09-17
+1325,للأمانة لا يعتبر الأسعار غير مقبولة، الله يعطيكم العافية,positive,restaurant,msa,2025-09-17
+1326,للأمانة سرعة الانترنت ممتازة للغاية,positive,telecom,msa,2025-09-17
+1327,المنتج زي غيره,neutral,ecommerce,gulf,2025-09-17
+1328,الأكل مرتب للغاية، ولكن الأسعار مبالغ فيها 😡,negative,restaurant,msa,2025-09-18
+1329,هل يوجد المندوب في جدة؟,neutral,delivery,msa,2025-09-18
+1330,للأمانة السائق ممتاز للغاية ورسوم التوصيل معقولة للغاية,positive,delivery,msa,2025-09-18
+1331,التطبيق ليس سيئا وليس ممتازا,neutral,delivery,msa,2025-09-18
+1332,جودة المنتج ثابتة للغاية وسعر المنتج رخيص,positive,ecommerce,msa,2025-09-18
+1333,الموقع مرتب، سأكرر التجربة,positive,ecommerce,msa,2025-09-18
+1334,في الحقيقة خدمة ما بعد البيع سريعة الرد، شكرا لكم,positive,ecommerce,msa,2025-09-18
+1335,تجربتي: تعامل الموظفين متعاون للغاية، شكرا لكم,positive,restaurant,msa,2025-09-18
+1336,في الحقيقة استمتعت بالباقة,positive,telecom,msa,2025-09-18
+1337,للأمانة الشبكة تعبانة، لكن لم يكن خدمة العملاء مزعجة,positive,telecom,msa,2025-09-19
+1338,لم يكن الشبكة نظيفة والفاتورة مبالغ فيها جدا 👎,negative,telecom,msa,2025-09-19
+1339,للأمانة المنتج ضعيف,negative,ecommerce,msa,2025-09-19
+1340,يا جماعة رسوم التوصيل معقولة وايد وخدمة التوصيل حلوة,positive,delivery,gulf,2025-09-19
+1341,صراحة لم يعجبني وقت التحضير وما عجبني الأسعار 👎,negative,restaurant,gulf,2025-09-19
+1342,يا جماعة ما ارتحت لالشحن,negative,ecommerce,gulf,2025-09-19
+1343,الصدق وقت التحضير منظم,positive,restaurant,gulf,2025-09-19
+1344,يا جماعة المندوب بطيء حيل,negative,delivery,gulf,2025-09-19
+1345,الطلب رقم 1934 وصل يوم الأحد,neutral,restaurant,msa,2025-09-20
+1346,في الحقيقة أعجبني التطبيق,positive,delivery,msa,2025-09-20
+1347,للأمانة سرعة الانترنت راقية للغاية,positive,telecom,msa,2025-09-20
+1348,خدمة التوصيل مو وحش ولا ممتاز,neutral,delivery,gulf,2025-09-21
+1349,في الحقيقة رسوم التوصيل نار للغاية,negative,delivery,msa,2025-09-21
+1350,في الحقيقة الاسترجاع متجاهل، ما انصح فيه,negative,ecommerce,msa,2025-09-21
+1351,الطلب رقم 7304 وصل يوم الثلاثاء,neutral,telecom,msa,2025-09-21
+1352,الصدق المنتج وحش مرة، بس الاسترجاع محترم,positive,ecommerce,gulf,2025-09-21
+1353,بصراحة جودة المنتج بايخة مرة,negative,ecommerce,gulf,2025-09-21
+1354,بصراحة سرعة الانترنت ما هو تعبانة والشبكة لذيذة مرة,positive,telecom,gulf,2025-09-22
+1355,الدعم الفني متجاهل جدا,negative,telecom,msa,2025-09-22
+1356,والله الشحن سريع وايد,positive,ecommerce,gulf,2025-09-22
+1357,بشكل عام الباقة معقولة للغاية @support,positive,telecom,msa,2025-09-22
+1358,وقت التحضير مزعج جدا والخدمة ليس متعاونة,negative,restaurant,msa,2025-09-23
+1359,المطعم ثابتة جدا,positive,restaurant,msa,2025-09-23
+1360,الصدق الشحن طيب، أنصح به بشدة,positive,ecommerce,gulf,2025-09-23
+1361,الصدق جودة المنتج ولا غلطة وايد، لكن تضايقت من الشحن,negative,ecommerce,gulf,2025-09-23
+1362,سرعة الانترنت مزعجة، ولكن لا يوجد اي مشكلة في تعامل موظف الاستقبال @support,positive,telecom,msa,2025-09-23
+1363,استلمت الطلب الساعة 9,neutral,telecom,msa,2025-09-23
+1364,بشكل عام عجبني الجلسة,positive,restaurant,msa,2025-09-24
+1365,صرررراحة الأسعار حلوة مرة، شكرا لكم,positive,restaurant,gulf,2025-09-24
+1366,والله الطعام حلو حيل,positive,restaurant,gulf,2025-09-24
+1367,الصدق الشحن فخم وايد، ولكن لم يعجبني التغليف,negative,ecommerce,gulf,2025-09-24
+1368,المطعم ما هو بايخ، لكن وجبة الغداء قديمة,negative,restaurant,gulf,2025-09-24
+1369,صراحة الاسترجاع يجنن وايد,positive,ecommerce,gulf,2025-09-24
+1370,والله الاسترجاع مب بارد 🔥,positive,ecommerce,gulf,2025-09-24
+1371,والله تعامل الموظفين محترم وايد، شكرا لكم,positive,restaurant,gulf,2025-09-24
+1372,تجربتي: خدمة ما بعد البيع رديئة للغاية، ولكن جودة المنتج ممتازة جدا للغاية,positive,ecommerce,msa,2025-09-25
+1373,هل يوجد التغليف في الطائف؟,neutral,ecommerce,msa,2025-09-25
+1374,طلبت مرتين هذا الاسبوع من مطعم السفرة,neutral,delivery,gulf,2025-09-25
+1375,بشكل عام لا يعتبر الباقة راقية,negative,telecom,msa,2025-09-25
+1376,خدمة ما بعد البيع محترمة للغاية,positive,ecommerce,msa,2025-09-25
+1377,والله التغليف ما هو لذيذ,negative,ecommerce,gulf,2025-09-25
+1378,الطلب رقم 2616 وصل يوم الثلاثاء,neutral,ecommerce,msa,2025-09-25
+1379,بشكل عام خدمة التوصيل غير متعاونة للغاية، لكن لم يكن رسوم التوصيل نار,positive,delivery,msa,2025-09-25
+1380,الصدق المنتج خايس، لكن الموقع تمام مرة,positive,ecommerce,gulf,2025-09-25
+1381,عجبني رسوم التوصيل,positive,delivery,gulf,2025-09-25
+1382,تعامل موظف الاستقبال مقبول لا اكثر ولا اقل,neutral,telecom,msa,2025-09-25
+1383,تجربتي: لم يكن التغطية متسخة,positive,telecom,msa,2025-09-28
+1384,والله سرعة الانترنت يجنن مرة,positive,telecom,gulf,2025-09-28
+1385,بشكل عام التغطية باردة للغاية,negative,telecom,msa,2025-09-28
+1386,خدمة العملاء ليس متجاهلة,positive,telecom,msa,2025-09-28
+1387,سعر المنتج ولا غلطة وايد,positive,ecommerce,gulf,2025-09-28
+1388,الصدق الشحن مو سريع,negative,ecommerce,gulf,2025-09-29
+1389,للأمانة السائق سريع,positive,delivery,msa,2025-09-29
+1390,يا جماعة عجبني تعامل موظف الاستقبال وسرعة الانترنت ثابتة حيل,positive,telecom,gulf,2025-09-30
+1391,صراحة التغليف ما هو وحش,positive,ecommerce,gulf,2025-09-30
+1392,لا يعتبر الفاتورة مبالغ,positive,telecom,msa,2025-09-30
+1393,متى يفتح متجر الندى؟,neutral,ecommerce,msa,2025-09-30
+1394,والله جودة المنتج ممتازة,positive,ecommerce,gulf,2025-10-01
+1395,صراحة جودة المنتج ما هو ممتازة,negative,ecommerce,gulf,2025-10-01
+1396,ما عجبني الجلسة,negative,restaurant,gulf,2025-10-02
+1397,الطعام مو وحش، لكن المطعم متسخ وايد,negative,restaurant,gulf,2025-10-02
+1398,هل يوجد التغطية في جدة؟,neutral,telecom,msa,2025-10-02
+1399,خدمة ما بعد البيع حلوة حيل,positive,ecommerce,gulf,2025-10-02
+1400,الصدق الفاتورة غالية والتغطية متسخة وايد 💔,negative,telecom,gulf,2025-10-02
+1401,يا جماعة ما ارتحت لالخدمة، ولكن المطعم يجنن حيل,positive,restaurant,gulf,2025-10-02
+1402,لم يكن تعامل موظف الاستقبال بارد 🔥,positive,telecom,msa,2025-10-02
+1403,للأمانة الأكل ضعيف للغاية,negative,restaurant,msa,2025-10-02
+1404,لا يعتبر خدمة ما بعد البيع رديئة، الله يعطيكم العافية,positive,ecommerce,msa,2025-10-03
+1405,والله وجبة الغداء مو زبالة، سأكرر التجربة https://example.com/x,positive,restaurant,gulf,2025-10-03
+1406,صراحة الشبكة متسخة، بس خدمة العملاء محترمة وايد,positive,telecom,gulf,2025-10-03
+1407,الدعم الفني ممتاز جدا، أنصح به بشدة 👏,positive,telecom,msa,2025-10-03
+1408,بشكل عام التوصيل منظم للغاية,positive,delivery,msa,2025-10-03
+1409,وـالله الأسعار مرتفعة حيل 🤬,negative,restaurant,gulf,2025-10-03
+1410,يا جماعة المنتج مب خايس,positive,ecommerce,gulf,2025-10-04
+1411,خدمة العملاء متعاونة,positive,telecom,msa,2025-10-04
+1412,لا يعتبر الأسعار غير مقبولة,positive,restaurant,msa,2025-10-04
+1413,الشبكة ليس سيئا وليس ممتازا,neutral,telecom,msa,2025-10-04
+1414,الطعام وحش,negative,restaurant,gulf,2025-10-04
+1415,هل يوجد الشحن في جدة؟,neutral,ecommerce,msa,2025-10-05
+1416,صراحة خدمة العملاء سريعة الرد,positive,telecom,gulf,2025-10-05
+1417,تجربتي: لا يوجد اي مشكلة في اللللتوصيل,positive,delivery,msa,2025-10-05
+1418,بصراحة لم يعجبني رسوم التوصيل https://example.com/x,negative,delivery,gulf,2025-10-05
+1419,الاسترجاع خايس وايد، لكن المنتج خرافي مرة,positive,ecommerce,gulf,2025-10-05
+1420,اللللصدق الشحن في الوقت المحدد وايد، الله يعطيكم العافية,positive,ecommerce,gulf,2025-10-05
+1421,الصدق التغليف حلو,positive,ecommerce,gulf,2025-10-06
+1422,والله التغليف مب بارد، بس جودة المنتج بايخة,negative,ecommerce,gulf,2025-10-06
+1423,تجربتي: تغليف الطلب رائع جدا,positive,delivery,msa,2025-10-06
+1424,بصراحة التغليف تمام كثير,positive,ecommerce,gulf,2025-10-06
+1425,السائق مب بطيء,positive,delivery,gulf,2025-10-06
+1426,والله المنتج بارد حيل، ضيعت فلوسي,negative,ecommerce,gulf,2025-10-06
+1427,سعر المنتج معقول للغاية ❤,positive,ecommerce,msa,2025-10-06
+1428,الاسترجاع ليس سيئا وليس ممتازا,neutral,ecommerce,msa,2025-10-07
+1429,سعر المنتج مب يجنن,negative,ecommerce,gulf,2025-10-07
+1430,التغليف مو وحش ولا ممتاز,neutral,ecommerce,gulf,2025-10-07
+1431,الطعام قديم جدا,negative,restaurant,msa,2025-10-08
+1432,المندوب وحش كـثير والتوصيل كارثة,negative,delivery,gulf,2025-10-08
+1433,صراحة الأسعار كشخة,positive,restaurant,gulf,2025-10-08
+1434,يا جماعة الأسعار مو مبالغ 😍,positive,restaurant,gulf,2025-10-08
+1435,رسوم التوصيل حلوة وايد والتطبيق ثابتة كثير,positive,delivery,gulf,2025-10-08
+1436,لم يعجبني سرعة الانترنت، لكن لا يعتبر الباقة نار,positive,telecom,msa,2025-10-08
+1437,يا جماعة الاسترجاع بارد @support,negative,ecommerce,gulf,2025-10-09
+1438,الشبكة مرتبة، بس لم أرتح لتعامل موظف الاستقبال,negative,telecom,msa,2025-10-09
+1439,بشكل عام السائق متأخر والمندوب فوضوي,negative,delivery,msa,2025-10-09
+1440,هل يوجد خدمة ما بعد البيع في مكة؟,neutral,ecommerce,gulf,2025-10-09
+1441,بشكل عام سرعة الانترنت ممتازة جدا، الله يعطيكم العافية,positive,telecom,msa,2025-10-09
+1442,السائق مو خايس والتطبيق ثابتة وايد,positive,delivery,gulf,2025-10-09
+1443,يا جماعة سرعة الانترنت لذيذة وايد 😍,positive,telecom,gulf,2025-10-10
+1444,في الحقيقة المطعم ليس محترف,negative,restaurant,msa,2025-10-10
+1445,الأسعار زي غيرها,neutral,restaurant,msa,2025-10-10
+1446,الدعم الفني رديء وتضايقت من الفاتورة,negative,telecom,msa,2025-10-11
+1447,التوصيل جيد للغاية، سأكرر التجربة,positive,delivery,msa,2025-10-11
+1448,طلبت مرتين هذا الاسبوع من كافيه الريف,neutral,ecommerce,gulf,2025-10-11
+1449,تجربتي: الفاتورة غالية للغاية، بس الدعم الفني سريع الرد,positive,telecom,msa,2025-10-11
+1450,تجربتي: خدمة التوصيل محترمة للغاية، الله يعطيكم العافية,positive,delivery,msa,2025-10-11
+1451,والله خدمة التوصيل ما هو باردة، ولكن وقت الوصول مو طيب,negative,delivery,gulf,2025-10-11
+1452,الاسترجاع عادي لا اكثر ولا اقل,neutral,ecommerce,msa,2025-10-11
+1453,في الحقيقة وقت الوصول في الوقت المحدد للغاية، شكرا لكم,positive,delivery,msa,2025-10-11
+1454,وجبة الغداء لذيذة حيل,positive,restaurant,gulf,2025-10-11
+1455,تعامل موظف الاستقبال عادي لا اكثر ولا اقل,neutral,telecom,msa,2025-10-11
+1456,الصدق ما ارتحت لوقت الوصول,negative,delivery,gulf,2025-10-11
+1457,الصدق خدمة التوصيل متجاهلة وايد، بس التوصيل تمام كثير,positive,delivery,gulf,2025-10-12
+1458,الأسعار ولا غلطة وايد,positive,restaurant,gulf,2025-10-12
+1459,تجربتي: لم يعجبني المندوب,negative,delivery,msa,2025-10-12
+1460,يا جماعة تغليف الطلب كارثة حيل، ولكن رسوم التوصيل خرافية كثير,positive,delivery,gulf,2025-10-12
+1461,بشكل عام تعامل موظف الاستقبال رديء جدا، بس الفاتورة ليس رديئة,positive,telecom,msa,2025-10-12
+1462,بصراحة تضايقت من المندوب، ضيعت فلوسي,negative,delivery,gulf,2025-10-12
+1463,يا جماعة السائق كارثة مرة,negative,delivery,gulf,2025-10-13
+1464,تجربتي: الدعم الفني مميز جدا,positive,telecom,msa,2025-10-13
+1465,وقت التحضير ضعيف ووجبة الغداء متسخة للغاية,negative,restaurant,msa,2025-10-13
+1466,الصدق الاسترجاع محترم,positive,ecommerce,gulf,2025-10-13
+1467,وقت التحضير كارثة حيل وتضايقت من المطعم,negative,restaurant,gulf,2025-10-13
+1468,الشحن محترف جدا والتغليف ليس بارد,positive,ecommerce,msa,2025-10-13
+1469,سعر المنتج مناسب كثير,positive,ecommerce,gulf,2025-10-14
+1470,بشكل عام الفاتورة ضعيفة للغاية والشبكة غير مقبولة للغاية 😡,negative,telecom,msa,2025-10-14
+1471,سعر القسيمة 220 ريال,neutral,delivery,msa,2025-10-14
+1472,التغليف ما هو بارد,positive,ecommerce,gulf,2025-10-14
+1473,الطعام مب زبالة,positive,restaurant,gulf,2025-10-14
+1474,هل يوجد المطعم في الطائف؟,neutral,restaurant,gulf,2025-10-15
+1475,بشكل عام لا يعتبر الطعم سيء، ولكن الطعام ليس ممتاز 🤬,negative,restaurant,msa,2025-10-15
+1476,صراحة الخدمة يجنن حيل,positive,restaurant,gulf,2025-10-15
+1477,الأسعار غالية حـيل,negative,restaurant,gulf,2025-10-16
+1478,هل يوجد تغليف الطلب في جدة؟,neutral,delivery,gulf,2025-10-16
+1479,تعامل موظف الاستقبال رائع جدا، وفقكم الله,positive,telecom,msa,2025-10-16
+1480,والله المندوب تمام وايد والتوصيل مو فـوضوي,positive,delivery,gulf,2025-10-16
+1481,الشحن منظم، أنصح به بشدة,positive,ecommerce,gulf,2025-10-16
+1482,بشكل عام التغليف محترف جدا، شكرا لكم,positive,ecommerce,msa,2025-10-16
+1483,يا جماعة الباقة يجنن وايد,positive,telecom,gulf,2025-10-17
+1484,التغليف فخم، بس جودة المنتج باردة مرة,negative,ecommerce,gulf,2025-10-17
+1485,لم يكن الخدمة محترمة، بس الطعام ممتاز 🔥,positive,restaurant,msa,2025-10-17
+1486,الطلب رقم 4610 وصل يوم الجمعة,neutral,delivery,gulf,2025-10-17
+1487,تجربتي: لا يعتبر الجلسة غير مقبولة,positive,restaurant,msa,2025-10-17
+1488,في الحقيقة التطبيق نظيف @support,positive,delivery,msa,2025-10-17
+1489,هل يوجد الموقع في الطائف؟,neutral,ecommerce,gulf,2025-10-17
+1490,عجبني الخدمة,positive,restaurant,msa,2025-10-17
+1491,الصدق الشحن تمام,positive,ecommerce,gulf,2025-10-17
+1492,الفاتورة تمام كثير والشبكة ما هو بايخة,positive,telecom,gulf,2025-10-17
+1493,يا جـماعة الفاتورة مناسبة,positive,telecom,gulf,2025-10-17
+1494,بصراحة الدعم الفني مو متعاون، لكن تعامل موظف الاستقبال حلو وايد,positive,telecom,gulf,2025-10-17
+1495,الطلب رقم 4193 وصل يوم الاثنين,neutral,delivery,msa,2025-10-17
+1496,الباقة رديئة جدا,negative,telecom,msa,2025-10-18
+1497,تجربتي: لا يعتبر المندوب ممتاز، ولكن رسوم التوصيل ممتازة مقابل الجودة جدا,positive,delivery,msa,2025-10-18
+1498,طلبت من كافيه الريف يوم الثلاثاء,neutral,ecommerce,gulf,2025-10-18
+1499,خدمة التوصيل كارثة حيل #تجربتي,negative,delivery,gulf,2025-10-18
+1500,الطعم مب مو طبيعي بالسوء 😊,positive,restaurant,gulf,2025-10-18
+1501,للأمانة التغليف ضعيف,negative,ecommerce,msa,2025-10-19
+1502,تعامل موظف الاستقبال مزعج للغاية ولا يعتبر الدعم الفني محترم,negative,telecom,msa,2025-10-19
+1503,الصدق اـلسائق ولا غلطة حيل، أنصح به بشدة,positive,delivery,gulf,2025-10-19
+1504,الباقة مو رخيصة، لكن الدعم الفني فخم مرة,positive,telecom,gulf,2025-10-20
+1505,في الحقيقة الطعام ليس ممتاز، لكن المطعم ممتاز,positive,restaurant,msa,2025-10-20
+1506,بشكل عام لم يكن التغطية ثابتة، ندمت,negative,telecom,msa,2025-10-20
+1507,بصراحة الباقة ممتازة مقابل الجودة كثير,positive,telecom,gulf,2025-10-20
+1508,في الحقيقة التغطية نظيفة ❤,positive,telecom,msa,2025-10-20
+1509,للأمانة المطعم ثابتة,positive,restaurant,msa,2025-10-20
+1510,صراحة تغليف اللللطلب قديم وايد,negative,delivery,gulf,2025-10-20
+1511,بصراحة الاسترجاع متعاون كثير,positive,ecommerce,gulf,2025-10-20
+1512,للأمانة تغليف الطلب نظيف جدا,positive,delivery,msa,2025-10-21
+1513,بصراحة خدمة التوصيل سريعة الرد، وراح أطلب مرة ثانية,positive,delivery,gulf,2025-10-21
+1514,الطلب رقم 2182 وصل يوم الثلاثاء,neutral,ecommerce,gulf,2025-10-21
+1515,والله الخدمة بايخة، لا أنصح به 🤬,negative,restaurant,gulf,2025-10-22
+1516,الاسترجاع مو وحش ولا ممتاز,neutral,ecommerce,gulf,2025-10-22
+1517,طلبت من متجر الندى يوم الأربعاء,neutral,delivery,msa,2025-10-22
+1518,تغليف الطلب زبالة وايد، لا أنصح به,negative,delivery,gulf,2025-10-22
+1519,سعر الطلب 270 ريال,neutral,delivery,msa,2025-10-22
+1520,في الحقيقة خدمة التوصيل متجاهلة للغاية، ولكن عجبني المندوب,positive,delivery,msa,2025-10-23
+1521,في الحقيقة التغليف نظيف @support,positive,ecommerce,msa,2025-10-23
+1522,بشكل عام ما عجبني المطعم,negative,restaurant,msa,2025-10-23
+1523,في الحقيقة الموقع جيد جدا، ولكن لم يعجبني اللللمنتج,negative,ecommerce,msa,2025-10-23
+1524,في الحقيقة خدمة ما بعد البيع متعاونة ولا يوجد اي مشكلة في الموقع,positive,ecommerce,msa,2025-10-23
+1525,الصدق الشبكة زبالة,negative,telecom,gulf,2025-10-23
+1526,بصراحة تضايقت من خدمة التوصيل، ولكن المندوب حلو وايد,positive,delivery,gulf,2025-10-23
+1527,الطلب رقم 6160 وصل يوم الجمعة,neutral,telecom,msa,2025-10-23
+1528,صراحة جودة المنتج مب خرافية، تجربة مخيبة,negative,ecommerce,gulf,2025-10-24
+1529,المندوب بايخ وايد، ولكن التطبيق ولا غلطة حيل https://example.com/x,positive,delivery,gulf,2025-10-24
+1530,صراحة المطعم يجنن,positive,restaurant,gulf,2025-10-24
+1531,في الحقيقة خدمة التوصيل غير مقبولة جدا، لن أكرر التجربة,negative,delivery,msa,2025-10-25
+1532,للأمانة المندوب سيء، لكن التوصيل سريع ❤,positive,delivery,msa,2025-10-25
+1533,أعجبني السائق للغاية 👍,positive,delivery,msa,2025-10-25
+1534,تجربتي: تغليف الطلب سيء، تجربة مخيبة,negative,delivery,msa,2025-10-28
+1535,تعامل موظف الاستقبال ليس سريع,negative,telecom,msa,2025-10-29
+1536,بشكل عام الأسعار رخيصة للغاية,positive,restaurant,msa,2025-10-29
+1537,طلبت مرتين هذا الاسبوع من متجر الندى,neutral,ecommerce,msa,2025-10-29
+1538,تعامل الموظفين زي غيره لا اكثر ولا اقل,neutral,restaurant,msa,2025-10-29
+1539,يا جماعة سعر المنتج مو طبيعي بالسوء، ما راح أطلب مرة ثانية,negative,ecommerce,gulf,2025-10-29
+1540,والله سرعة الانترنت يجنن حيل 👏,positive,telecom,gulf,2025-10-29
+1541,سرعة الانترنت كارثة مرة وما ارتحت لالفاتورة,negative,telecom,gulf,2025-10-30
+1542,يا جماعة الباقة نار كثير #تجربتي,negative,telecom,gulf,2025-10-30
+1543,تجربتي: تعامل موظف الاستقبال مخيب للآمال ولم يكن الشبكة ممتازة,negative,telecom,msa,2025-10-31
+1544,للأمانة الموقع قديم جدا، لكن لا يعتبر جودة المنتج مخيبة 😍,positive,ecommerce,msa,2025-10-31
+1545,لا يعتبر الأسعار مرتفعة ولا يعتبر المطعم رديء 👏,positive,restaurant,msa,2025-10-31
+1546,استلمت الاشتراك الساعة 6,neutral,delivery,msa,2025-10-31
+1547,تغليف الطلب لذيذ واااايد,positive,delivery,gulf,2025-10-31
+1548,المنتج قديم,negative,ecommerce,gulf,2025-10-31
+1549,يا جماعة تغليف الطلب مرتب حيل,positive,delivery,gulf,2025-10-31
+1550,صراحة الشبكة ما هو طيبة,negative,telecom,gulf,2025-11-01
+1551,يا جماعة جودة المنتج مرتبة مرة,positive,ecommerce,gulf,2025-11-01
+1552,الأكل مزعج، ضيعت فلوسي 😡,negative,restaurant,msa,2025-11-01
+1553,عجبني خدمة التوصيل,positive,delivery,gulf,2025-11-01
+1554,بشكل عام خدمة ما بعد البيع ضعيفة والشحن ضعيف جدا,negative,ecommerce,msa,2025-11-01
+1555,والله عجبني الباقة، لكن سرعة الانترنت تعبانة,negative,telecom,gulf,2025-11-01
+1556,خدمة التوصيل مخيبة للآمال للغاية والسائق مخيب للآمال,negative,delivery,msa,2025-11-01
+1557,الصدق جودة المنتج باردة، لا أنصح به,negative,ecommerce,gulf,2025-11-02
+1558,في الحقيقة عجبني الأسعار، الله يعطيكم العافية,positive,restaurant,msa,2025-11-02
+1559,والله وجبة الغداء كارثة وايد,negative,restaurant,gulf,2025-11-02
+1560,الصدق التغليف بايخ حيل,negative,ecommerce,gulf,2025-11-03
+1561,صراحة تضايقت من الشبكة,negative,telecom,gulf,2025-11-03
+1562,للأمانة التوصيل ليس رديء ولم يكن رسوم التوصيل نار,positive,delivery,msa,2025-11-04
+1563,بصراحة الطعام قديم حيل، ضيعت فلوسي,negative,restaurant,gulf,2025-11-05
+1564,في الحقيقة الشحن سريع,positive,ecommerce,msa,2025-11-05
+1565,والله خدمة ما بعد البيع غير متعاونة مرة، بس الشحن مو فوضوي,positive,ecommerce,gulf,2025-11-05
+1566,اريد معرفة تغليف الطلب قبل الاشتراك,neutral,delivery,msa,2025-11-05
+1567,الصدق الاسترجاع فخم مرة والشحن طيب,positive,ecommerce,gulf,2025-11-05
+1568,والله وجبة الغداء طيبة,positive,restaurant,gulf,2025-11-06
+1569,للأمانة وقت التحضير سيء جدا,negative,restaurant,msa,2025-11-06
+1570,في الحقيقة لا يعتبر جودة المنتج نظيفة,negative,ecommerce,msa,2025-11-06
+1571,لا يوجد اي مشكلة في تعامل موظف الاستقبال,positive,telecom,msa,2025-11-06
+1572,بصراحة جودة المنتج قديمة مرة، لكن التغليف لذيذ,positive,ecommerce,gulf,2025-11-06
+1573,للأمانة لم يكن الاسترجاع سريع وسعر المنتج مبالغ فيه,negative,ecommerce,msa,2025-11-06
+1574,يا جماعة الفاتورة مـناسبة مرة، ولكن التغطية ما هو خرافية 👎,negative,telecom,gulf,2025-11-06
+1575,المنتج متوسط,neutral,ecommerce,msa,2025-11-07
+1576,تجربتي: التغليف مزعج جدا، لا أنصح به @support,negative,ecommerce,msa,2025-11-07
+1577,رسوم اللللتوصيل سيئة جدا,negative,delivery,msa,2025-11-07
+1578,تجربتي: لا يعتبر الموقع ثابتة,negative,ecommerce,msa,2025-11-07
+1579,للأمانة خدمة التوصيل رديئة للغاية,negative,delivery,msa,2025-11-07
+1580,يا جماعة جودة المنتج مرتبة مرة وما في اي مشكلة في سعر المنتج,positive,ecommerce,gulf,2025-11-07
+1581,للأمانة خدمة التوصيل ليس رديئة,positive,delivery,msa,2025-11-07
+1582,سعر الطلب 260 ريال,neutral,delivery,gulf,2025-11-07
+1583,بشكل عام وقت الوصول متأخر للغاية، ولكن التطبيق ممتاز جدا,positive,delivery,msa,2025-11-09
+1584,تجربتي: التغليف نظيف، ولكن الموقع غير مقبول جدا,negative,ecommerce,msa,2025-11-09
+1585,تجربتي: ما عجبني المندوب,negative,delivery,msa,2025-11-09
+1586,يا جماعة الطعم بارد وايد,negative,restaurant,gulf,2025-11-09
+1587,في الحقيقة لا يعتبر الدعم الفني ممتاز، ولكن لم يكن التغطية تعبانة,positive,telecom,msa,2025-11-10
+1588,الصدق الأسعار مناسبة,positive,restaurant,gulf,2025-11-10
+1589,الصدق الاسترجاع متجاهل,negative,ecommerce,gulf,2025-11-10
+1590,لا يوجد اي مشكلة في الموقع وأعجبني الشحن,positive,ecommerce,msa,2025-11-10
+1591,للأمانة سرعة الانترنت لذيذة,positive,telecom,msa,2025-11-10
+1592,للأمانة السائق راقي جدا,positive,delivery,msa,2025-11-10
+1593,بشكل عام خدمة التوصيل ممتازة جدا,positive,delivery,msa,2025-11-10
+1594,استلمت الطلب الساعة 8,neutral,restaurant,msa,2025-11-10
+1595,استلمت الاشتراك الساعة 2,neutral,ecommerce,gulf,2025-11-11
+1596,أعجبني المنتج 👏,positive,ecommerce,msa,2025-11-11
+1597,استلمت الجهاز الساعة 6,neutral,restaurant,msa,2025-11-11
+1598,وقت التحضير سريع جدا @support,positive,restaurant,msa,2025-11-11
+1599,للأمانة التغليف ليس متسخ,positive,ecommerce,msa,2025-11-11
+1600,عجبني المنتج وجودة المنتج محترفة 😍,positive,ecommerce,msa,2025-11-11
+1601,الصدق الدعم الفني بايخ، ندمت,negative,telecom,gulf,2025-11-12
+1602,للأمانة ما عجبني وقت الوصول، لكن رسوم التوصيل رخيصة,positive,delivery,msa,2025-11-12
+1603,صراحة الشحن بطيء، ولكن خدمة ما بعد البيع مو متجاهلة,positive,ecommerce,gulf,2025-11-13
+1604,وقت الوصول عادي,neutral,delivery,msa,2025-11-13
+1605,والله المنتج مب تمام,negative,ecommerce,gulf,2025-11-14
+1606,بشكل عام خدمة العملاء سيئة جدا، ولكن تعامل موظف الاستقبال متعاون جدا,positive,telecom,msa,2025-11-14
+1607,تضايقت من السائق,negative,delivery,gulf,2025-11-14
+1608,صراحة المنتج متسخ,negative,ecommerce,gulf,2025-11-14
+1609,يا جماعة الأسعار معقولة وايد,positive,restaurant,gulf,2025-11-14
+1610,لللللأمانة الطعم جيد للغاية,positive,restaurant,msa,2025-11-14
+1611,يا جماعة سرعة الانترنت فخمة والدعم الفني طيب كثير 😊,positive,telecom,gulf,2025-11-15
+1612,الخدمة مو وحش ولا ممتاز,neutral,restaurant,gulf,2025-11-15
+1613,في الحقيقة لم يكن وقت الوصول منظم، لن أكرر التجربة 💔,negative,delivery,msa,2025-11-15
+1614,سعر القسيمة 170 ريال,neutral,ecommerce,msa,2025-11-16
+1615,الشحن ممتاز جدا، لكن المنتج مخيب للآمال للغاية 🤬,negative,ecommerce,msa,2025-11-16
+1616,والله الجلسة زبالة، ولكن وقت التحضير حلو وايد,positive,restaurant,gulf,2025-11-16
+1617,الصدق الفاتورة كارثة,negative,telecom,gulf,2025-11-17
+1618,والله رسوم التوصيل نار,negative,delivery,gulf,2025-11-17
+1619,الصدق تضايقت من الموقع، ولكن المنتج ما هو مو طبيعي بالسوء,positive,ecommerce,gulf,2025-11-17
+1620,بشكل عام خدمة التوصيل سريعة الرد جدا,positive,delivery,msa,2025-11-17
+1621,بصراحة الشحن مب فخم، لكن جودة المنتج نظيفة كثير,positive,ecommerce,gulf,2025-11-17
+1622,يا جماعة ما عجبني الباقة، ولكن الشبكة حلوة,positive,telecom,gulf,2025-11-18
+1623,للأمانة لم أرتح لوقت التحضير,negative,restaurant,msa,2025-11-18
+1624,الأسعار مرتفعة,negative,restaurant,gulf,2025-11-18
+1625,وش وقت يفتح مطعم الواحة؟,neutral,delivery,gulf,2025-11-18
+1626,الصدق التطبيق متسخ مرة، لكن ما في اي مشكلة في خدمة التوصيل,positive,delivery,gulf,2025-11-18
+1627,تجربتي: الخدمة محترمة للغاية، وراح أطلب مرة ثانية 😍,positive,restaurant,msa,2025-11-18
+1628,في الحقيقة تعامل موظف الاستقبال ليس متجاهل,positive,telecom,msa,2025-11-19
+1629,الباقة مرتفعة جدا,negative,telecom,msa,2025-11-19
+1630,وش وقت يفتح متجر الندى؟,neutral,restaurant,gulf,2025-11-19
+1631,يا جماعة المندوب خرافي وايد وتغليف الطلب ممتاز,positive,delivery,gulf,2025-11-19
+1632,بصراحة تـضايقت من وجبة الغداء، لكن الجلسة ما هو وحشة,positive,restaurant,gulf,2025-11-19
+1633,الطلب رقم 4593 وصل يوم الجمعة,neutral,telecom,msa,2025-11-19
+1634,والله التغطية مو متسخة,positive,telecom,gulf,2025-11-19
+1635,تعامل الموظفين بارد، ولكن الأكل كشخة مرة,positive,restaurant,gulf,2025-11-20
+1636,الصدق الجلسة مو خرافية، لكن الطعام لذيذ وايد 🔥,positive,restaurant,gulf,2025-11-20
+1637,التغطية فخمة #تجربتي,positive,telecom,gulf,2025-11-20
+1638,في الحقيقة تعامل موظف الاستقبال ليس جيد، تجربة مخيبة #تجربتي,negative,telecom,msa,2025-11-20
+1639,صراحة الأكل نظيف وايد,positive,restaurant,gulf,2025-11-20
+1640,بشكل عام خدمة التوصيل باردة وتغليف الطلب ليس ثابتة,negative,delivery,msa,2025-11-21
+1641,تجربتي: لم أرتح لالفاتورة,negative,telecom,msa,2025-11-21
+1642,والله أعجبني رسوم التوصيل كثير والتطبيق مرتب,positive,delivery,gulf,2025-11-21
+1643,تعامل الموظفين متجاهل,negative,restaurant,gulf,2025-11-21
+1644,في الحقيقة عجبني وقت الوصول,positive,delivery,msa,2025-11-21
+1645,بصراحة جودة المنتج ما هو يجنن 👎,negative,ecommerce,gulf,2025-11-21
+1646,في الحقيقة الخدمة مميزة,positive,restaurant,msa,2025-11-21
+1647,الصدق الأسعار ما هو مبالغ,positive,restaurant,gulf,2025-11-22
+1648,الصدق رسوم التوصيل كـشخة كثير,positive,delivery,gulf,2025-11-22
+1649,صراحة التوصيل خايس، بس تغليف الطلب مو وحش,positive,delivery,gulf,2025-11-22
+1650,يا جماعة الأكل مو طبيعي بالسوء حيل، ولكن الطعام نظيف مرة,positive,restaurant,gulf,2025-11-22
+1651,بصراحة سعر المنتج ولا غلطة,positive,ecommerce,gulf,2025-11-22
+1652,في الحقيقة الأكل بارد للغاية ولم أرتح لالطعام,negative,restaurant,msa,2025-11-22
+1653,بشكل عام أعجبني التغطية,positive,telecom,msa,2025-11-22
+1654,بشكل عام التغطية متسخة,negative,telecom,msa,2025-11-22
+1655,للأمانة خدمة اـلعملاء متجاهلة,negative,telecom,msa,2025-11-22
+1656,بصراحة جودة المنتج طيبة,positive,ecommerce,gulf,2025-11-23
+1657,وش وقت يفتح سوبرماركت الحي؟,neutral,telecom,gulf,2025-11-23
+1658,والله الأكل قديم حيل,negative,restaurant,gulf,2025-11-24
+1659,بشكل عام رسوم التوصيل مناسبة جدا، وفقكم الله,positive,delivery,msa,2025-11-24
+1660,الطلب رقم 2507 وصل يوم السبت,neutral,telecom,msa,2025-11-24
+1661,بصراحة خدمة العملاء محترمة,positive,telecom,gulf,2025-11-24
+1662,للأمانة السائق في الوقت المحدد جدا، ولكن التوصيل فوضوي,negative,delivery,msa,2025-11-24
+1663,سررررعة الانترنت قديمة، ولكن خدمة العملاء طيبة,positive,telecom,gulf,2025-11-24
+1664,تجربتي: لا يعتبر تعامل الموظفين محترم، ندمت,negative,restaurant,msa,2025-11-27
+1665,للأمانة خدمة العملاء رائعة للغاية، يستاهل التجربة,positive,telecom,msa,2025-11-27
+1666,في الحقيقة التغطية قديمة,negative,telecom,msa,2025-11-27
+1667,الصدق ما عجبني التغليف,negative,ecommerce,gulf,2025-11-27
+1668,بشكل عام الطعم راقي للغاية,positive,restaurant,msa,2025-11-27
+1669,استمتعت بالتغطية,positive,telecom,gulf,2025-11-27
+1670,المطعم قديم ووجبة الغداء مو ولا غلطة 👎,negative,restaurant,gulf,2025-11-28
+1671,عجبني التغطية,positive,telecom,gulf,2025-11-28
+1672,بشكل عام لم أرتح لخدمة العملاء، لكن التغطية نظيفة للغاية,positive,telecom,msa,2025-11-28
+1673,الصدق وقت التحضير مو منظم,negative,restaurant,gulf,2025-11-28
+1674,الصدق الشبكة وحشة مرة 😤,negative,telecom,gulf,2025-11-28
+1675,الفاتورة جيدة وتعامل موظف الاستقبال جيد ❤,positive,telecom,msa,2025-11-28
+1676,للأمانة السائق بطيء، بس تغليف الطلب ثابتة,positive,delivery,msa,2025-11-28
+1677,في الحقيقة تغليف الطلب جيد,positive,delivery,msa,2025-11-28
+1678,الصدق ما في اي مشكلة في الطعام,positive,restaurant,gulf,2025-11-28
+1679,يا جماعة التطبيق مو ولا غلطة، لن أكرر التجربة,negative,delivery,gulf,2025-11-29
+1680,الشبكة راقية للغاية,positive,telecom,msa,2025-11-29
+1681,صراحة الطعم قديم كثير، ضيعت فلوسي,negative,restaurant,gulf,2025-11-29
+1682,تجربتي: عجبني الباقة، ولكن لم يكن خدمة العملاء محترمة,negative,telecom,msa,2025-11-29
+1683,في الحقيقة لا يعتبر خدمة العملاء متجاهلة والدعم اللللفني راقي,positive,telecom,msa,2025-11-29
+1684,يا جماعة التغطية ثابتة حيل، سأكرر التجربة,positive,telecom,gulf,2025-11-29
+1685,أعجبني خدمة التوصيل كثير,positive,delivery,gulf,2025-11-29
+1686,سرعة الانترنت مرتبة للغاية,positive,telecom,msa,2025-11-30
+1687,الشبكة باردة جدا، لكن سرعة الانترنت رائعة,positive,telecom,msa,2025-11-30
+1688,هل يوجد السائق في جدة؟,neutral,delivery,gulf,2025-11-30
+1689,يا جماعة التوصيل مب في الوقت المحدد، لكن وقت الوصول سريع,positive,delivery,gulf,2025-12-01
+1690,تجربتي: لم يكن خدمة العملاء ضعيفة وأعجبني سرعة الانترنت,positive,telecom,msa,2025-12-01
+1691,التطبيق فخم حيل، يستاهل التجربة,positive,delivery,gulf,2025-12-01
+1692,اللللسائق مو مـتأخر,positive,delivery,gulf,2025-12-01
+1693,للأمانة الاسترجاع رديء للغاية,negative,ecommerce,msa,2025-12-01
+1694,الصدق ما عجبني الأسعار,negative,restaurant,gulf,2025-12-01
+1695,خدمة التوصيل ليس غير متعاونة ولم يكن السائق بطيء,positive,delivery,msa,2025-12-02
+1696,اـلتغليف راقي,positive,ecommerce,msa,2025-12-02
+1697,تجربتي: لم يكن المطعم تعبان,positive,restaurant,msa,2025-12-03
+1698,صراحة المنتج زبالة مرة,negative,ecommerce,gulf,2025-12-03
+1699,بشكل عام الأكل رائع جدا,positive,restaurant,msa,2025-12-03
+1700,يا جماعة التطبيق ما هو طيب,negative,delivery,gulf,2025-12-03
+1701,الصدق الباقة مبالغ فيها والدعم الفني مو متعاون,negative,telecom,gulf,2025-12-04
+1702,عجبني الأسعار,positive,restaurant,gulf,2025-12-04
+1703,بشكل عام الباقة مرتفعة للغاية، ضيعت فلوسي,negative,telecom,msa,2025-12-04
+1704,هل يوجد جودة المنتج في الرياض؟,neutral,ecommerce,msa,2025-12-04
+1705,الصدق الشبكة يجنن وايد,positive,telecom,gulf,2025-12-04
+1706,لم يعجبني الشحن، تجربة مخيبة,negative,ecommerce,msa,2025-12-04
+1707,وقت الوصول متوسط لا اكثر ولا اقل,neutral,delivery,msa,2025-12-05
+1708,السائق طيب كثير,positive,delivery,gulf,2025-12-05
+1709,للأمانة سعر المنتج ليس رخخخخيص، ضيعت فلوسي,negative,ecommerce,msa,2025-12-06
+1710,يا جماعة الاسترجاع متعاون كثير وخدمة ما بعد البيع متعاونة,positive,ecommerce,gulf,2025-12-06
+1711,بشكل عام الطعام مميز للغاية,positive,restaurant,msa,2025-12-06
+1712,في الحقيقة لم يكن الطعام ممتاز وتعامل الموظفين مخيب للآمال 💔 https://example.com/x,negative,restaurant,msa,2025-12-06
+1713,للأمانة المطعم ليس راقي,negative,restaurant,msa,2025-12-06
+1714,الجلسة نظيفة #تجربتي,positive,restaurant,msa,2025-12-06
+1715,سعر المنتج رائع واااالتغليف جيد جدا,positive,ecommerce,msa,2025-12-07
+1716,الاسترجاع حلو وايد، ولكن الموقع مو طبيعي بالسوء حيل,negative,ecommerce,gulf,2025-12-07
+1717,السائق مقبول,neutral,delivery,msa,2025-12-08
+1718,بشكل عام التغطية ممتازة للغاية,positive,telecom,msa,2025-12-08
+1719,في الحقيقة التغليف ممتاز للغاية,positive,ecommerce,msa,2025-12-08
+1720,عجبني الفاتورة,positive,telecom,msa,2025-12-08
+1721,الدعم الفني محترم، ولكن الباقة ليس رائعة,negative,telecom,msa,2025-12-08
+1722,صراحة الفاتورة مب مو طبيعية بالسوء,positive,telecom,gulf,2025-12-08
+1723,استلمت الجهاز الساعة 8,neutral,delivery,msa,2025-12-08
+1724,وقت الوصول ليس سيئا وليس ممتازا,neutral,delivery,msa,2025-12-08
+1725,تجربتي: لا يعتبر الأسعار نار,positive,restaurant,msa,2025-12-10
+1726,التغليف بارد وايد، بس الاسترجاع متعاون 👍,positive,ecommerce,gulf,2025-12-11
+1727,للأمانة التوصيل ممتاز، شكرا لكم,positive,delivery,msa,2025-12-11
+1728,صراحة ما في اي مشكلة في سرعة الانترنت، وفقكم الله,positive,telecom,gulf,2025-12-11
+1729,بصراحة السائق كشخة وايد,positive,delivery,gulf,2025-12-11
+1730,للأمانة لا يعتبر سرعة الانترنت نظيفة 🤬,negative,telecom,msa,2025-12-11
+1731,في الحقيقة تغليف الطلب ممتاز جدا,positive,delivery,msa,2025-12-12
+1732,خدمة ما بعد البيع متعاونة، بس الموقع مب مرتب 👎,negative,ecommerce,gulf,2025-12-12
+1733,صراحة لم يعجبني الشبكة,negative,telecom,gulf,2025-12-12
+1734,في الحقيقة الأسعار ممتازة,positive,restaurant,msa,2025-12-12
+1735,وقت التحضير مزعج جدا,negative,restaurant,msa,2025-12-12
+1736,تجربتي: التوصيل مززززعج,negative,delivery,msa,2025-12-12
+1737,صراحة جودة المنتج ثاااابتة كثير,positive,ecommerce,gulf,2025-12-12
+1738,بشكل عام الطعام ضعيف جدا والجلسة متسخة للغاية 😡,negative,restaurant,msa,2025-12-12
+1739,للأمانة لم يعجبني المندوب، ولكن خدمة التوصيل راقية,positive,delivery,msa,2025-12-12
+1740,ما عجبني تعامل الموظفين https://example.com/x,negative,restaurant,msa,2025-12-13
+1741,الصدق جودة المنتج ولا غلطة كثير,positive,ecommerce,gulf,2025-12-13
+1742,للأمانة الموقع ممتاز جدا,positive,ecommerce,msa,2025-12-13
+1743,للأمانة التغطية ليس مميزة، ما راح أطلب مرة ثانية,negative,telecom,msa,2025-12-13
+1744,في الحقيقة المنتج مرتب للغاية,positive,ecommerce,msa,2025-12-13
+1745,بصراحة التوصيل مو سريع,negative,delivery,gulf,2025-12-13
+1746,وقت الوصول بطيء كثير، لكن التوصيل كشخة مرة,positive,delivery,gulf,2025-12-14
+1747,اـلصدق سرعة الانترنت يجنن وايد,positive,telecom,gulf,2025-12-14
+1748,بشكل عام التغليف بارد جدا,negative,ecommerce,msa,2025-12-14
+1749,الصدق الجلسة ممتازة كثير,positive,restaurant,gulf,2025-12-15
+1750,سعر المنتج بايخ كثير,negative,ecommerce,gulf,2025-12-15
+1751,عجبني المنتج 😊,positive,ecommerce,gulf,2025-12-15
+1752,المطعم مو وحش ولا ممتاز,neutral,restaurant,gulf,2025-12-15
+1753,صراحة الطعام خايس حيل، لكن الخدمة مب متجاهلة,positive,restaurant,gulf,2025-12-15
+1754,الباقة خرافية,positive,telecom,gulf,2025-12-15
+1755,وـالله الباقة رخيصة مرة,positive,telecom,gulf,2025-12-15
+1756,في الحقيقة الشبكة متسخة للغاية,negative,telecom,msa,2025-12-15
+1757,خدمة ما بعد البيع متعاونة جدا,positive,ecommerce,msa,2025-12-16
+1758,سرعة الانترنت مو قديمة، أنصح به بشدة,positive,telecom,gulf,2025-12-16
+1759,طلبت من مطعم السفرة يوم الاثنين,neutral,ecommerce,msa,2025-12-16
+1760,للأمانة رسوم التوصيل محترفة جدا والتوصيل مميز جدا,positive,delivery,msa,2025-12-16
+1761,بشكل عام ما عجبني التغليف، بس خدمة ما بعد البيع متعاونة,positive,ecommerce,msa,2025-12-16
+1762,التغطية خايسة مرة,negative,telecom,gulf,2025-12-17
+1763,بصراحة الدعم الفني سريع الرد حيل,positive,telecom,gulf,2025-12-17
+1764,وقت الوصول مب مو طبيعي بالسوء,positive,delivery,gulf,2025-12-17
+1765,يا جماعة المنتج متسخ، ولكن سعر المنتج فخم مرة @support,positive,ecommerce,gulf,2025-12-17
+1766,للأمانة لم يكن الموقع قديم,positive,ecommerce,msa,2025-12-17
+1767,بشكل عام لم يكن الجلسة ممتازة، بس الطعام محترف للغاية,positive,restaurant,msa,2025-12-18
+1768,يا جماعة أعجبني الباقة وسرعة الانترنت طيبة,positive,telecom,gulf,2025-12-18
+1769,يا جماعة رسوم التوصيل مرتفعة كثير,negative,delivery,gulf,2025-12-18
+1770,تعامل موظف الاستقبال ولا غلطة كثير، وفقكم الله,positive,telecom,gulf,2025-12-18
+1771,التغطية رائعة للغاية,positive,telecom,msa,2025-12-18
+1772,استلمت الاشتراك الساعة 4,neutral,ecommerce,msa,2025-12-19
+1773,بصراحة التوصيل سريع كثير,positive,delivery,gulf,2025-12-19
+1774,الصدق خدمة ما بعد البيع تمام مرة,positive,ecommerce,gulf,2025-12-20
+1775,أعجبني الخدمة جدا,positive,restaurant,msa,2025-12-20
+1776,وقت التحضير يـجنن,positive,restaurant,gulf,2025-12-20
+1777,خدمة ما بعد البيع مو وحش ولا ممتاز,neutral,ecommerce,gulf,2025-12-21
+1778,الاسترجاع ليس متجاهل، بس سعر المنتج غالي للغاية,negative,ecommerce,msa,2025-12-21
+1779,استلمت القسيمة الساعة 7,neutral,ecommerce,gulf,2025-12-21
+1780,طلبت من متجر النخيل يوم الاثنين,neutral,delivery,gulf,2025-12-21
+1781,والله السائق في الوقت المحدد والتطبيق نظيف كثير,positive,delivery,gulf,2025-12-21
+1782,لا يوجد اي مشكلة في الطعم,positive,restaurant,msa,2025-12-21
+1783,تضايقت من المنتج، بس جودة المنتج فخمة وايد,positive,ecommerce,gulf,2025-12-21
+1784,بصراحة الطعام نظيف,positive,restaurant,gulf,2025-12-22
+1785,يا جماعة المطعم فخم,positive,restaurant,gulf,2025-12-22
+1786,لا يعتبر المندوب مميز، لكن التوصيل في الوقت المحدد,positive,delivery,msa,2025-12-22
+1787,تم تحويل طلبي الى قسم المبيعات,neutral,restaurant,gulf,2025-12-22
+1788,في الحقيقة لم أرتح لالاسترجاع,negative,ecommerce,msa,2025-12-22
+1789,بشكل عام المطعم قديم للغاية,negative,restaurant,msa,2025-12-22
+1790,بشكل عام الباقة نار,negative,telecom,msa,2025-12-23
+1791,صراحة رسوم التوصيل ما هو كشخة,negative,delivery,gulf,2025-12-23
+1792,سرعة الانترنت تعبانة للغاية,negative,telecom,msa,2025-12-23
+1793,ما في اي مشكلة في الاسترجاع، ولكن جودة المنتج مب مرتبة,negative,ecommerce,gulf,2025-12-23
+1794,استلمت الاشتراك الساعة 12,neutral,ecommerce,gulf,2025-12-23
+1795,المنتج نظيف,positive,ecommerce,msa,2025-12-23
+1796,يا جماعة خدمة العملاء يجنن، وفقكم الله,positive,telecom,gulf,2025-12-23
+1797,في الحقيقة لا يعتبر خدمة ما بعد البيع محترمة,negative,ecommerce,msa,2025-12-24
+1798,صراحة السائق حلو,positive,delivery,gulf,2025-12-24
+1799,ما في اي مشكلة في الباقة 😊,positive,telecom,gulf,2025-12-24
+1800,تغليف الطلب ليس ممتاز، بس خدمة التوصيل محترفة جدا,positive,delivery,msa,2025-12-24
