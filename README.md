@@ -167,10 +167,6 @@ Tests cover each preprocessing step (tashkeel, tatweel, letter normalisation, el
 - Compare against a pre-trained Arabic transformer.
 - More dialects and a larger, hand-labelled hard-case set.
 
-## Built with AI assistance
-
-This project was built with the help of an AI assistant (Claude). The code, tests, synthetic data templates and README were drafted with AI help; the numbers above are pasted from real runs of the code in this repository. Review it before relying on it.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
